@@ -1,0 +1,2786 @@
+,name,n_or_f
+0,00,1.0
+2,00,1.0
+6,01:02,1.0
+7,04:01,1.0
+10,04:19,1.0
+12,0.505555555556,0.0
+13,12:15,1.0
+24,1.08,0.0
+27,1.11,0.0
+29,1.15,0.0
+32,1.19,0.0
+38,1.274,0.0
+40,1.31,0.0
+43,1.34097222222,0.0
+49,1.39652777778,0.0
+50,1.41,0.0
+52,1.42569444444,0.0
+60,1.63055555556,0.0
+63,1900-01-01,1.0
+67,2,1.0
+68,2.12,0.0
+69,2.2,0.0
+73,2.33,0.0
+75,2.514,0.0
+92,4,1.0
+94,4.2,0.0
+95,4.2,1.0
+102,6,1.0
+104,6.2,0.0
+106,7,1.0
+112,8.104,0.0
+122,9.11,0.0
+126,9.3,0.0
+127,9.33,0.0
+131,10,0.0
+133,10,1.0
+134,10,1.0
+135,10,1.0
+139,10,1.0
+140,10,1.0
+143,10,1.0
+163,10,1.0
+165,1900-01-11,1.0
+168,11.42,0.0
+175,12,1.0
+177,12,1.0
+193,12.44,0.0
+194,12.44,0.0
+200,13,1.0
+209,14,1.0
+216,14.004,0.0
+223,17,1.0
+224,17,1.0
+227,17,1.0
+231,19,1.0
+234,19,1.0
+236,21.3021,0.0
+242,26.012,0.0
+243,26.1,0.0
+253,32,1.0
+260,33,1.0
+274,37,1.0
+280,37.9,0.0
+289,39.522,0.0
+292,40,1.0
+294,41,0.0
+299,41.0115,0.0
+302,42,0.0
+305,42,1.0
+322,42,1.0
+323,42,1.0
+326,42,1.0
+328,44,0.0
+334,44.302,0.0
+342,46.2,0.0
+343,47,0.0
+349,48.035,0.0
+378,54,1.0
+380,54,1.0
+386,56,0.0
+394,59.03,0.0
+399,60,1.0
+401,60,1.0
+409,61.07,0.0
+411,61.14,0.0
+413,62,1.0
+414,62,1.0
+420,69.081,0.0
+424,72,0.0
+439,83.51,0.0
+445,86,0.0
+453,90.203,0.0
+455,90.402,0.0
+463,90.702,0.0
+467,92.142,0.0
+470,95.11,0.0
+473,100.47,0.0
+478,104,0.0
+479,106,0.0
+486,110,1.0
+489,110.1,0.0
+499,120,1.0
+501,120,1.0
+505,120.6,0.0
+508,125.445,0.0
+512,135.748,0.0
+520,143.5,0.0
+521,145,0.0
+524,151.007,0.0
+533,162,0.0
+535,163.556,0.0
+541,168,0.0
+543,169,0.0
+547,170.1,0.0
+561,179.32,0.0
+564,180,1.0
+570,190.8,0.0
+573,195.05,0.0
+581,199.4,0.0
+584,200.4,0.0
+585,200.508,0.0
+595,210.95,0.0
+597,212,0.0
+602,213.111,1.0
+605,221,0.0
+610,225,1.0
+613,231,0.0
+623,240,0.0
+634,255.04,0.0
+637,261,0.0
+639,265.02,0.0
+650,290,1.0
+656,301.2,0.0
+665,310,1.0
+666,311.042,0.0
+670,316.122,0.0
+683,328,0.0
+685,333.7401,0.0
+686,337.1,0.0
+687,337.403,0.0
+693,346.63,0.0
+696,351,0.0
+705,361,1.0
+708,362,0.0
+710,363,0.0
+714,366.26,0.0
+715,367.842,0.0
+716,368,0.0
+720,376.82,0.0
+722,377.3,0.0
+723,377.41,0.0
+729,383.015,0.0
+742,401.2101,0.0
+748,403.211,0.0
+754,405,0.0
+756,406.0165,0.0
+774,425.15,0.0
+776,427,0.0
+780,430.5,0.0
+782,433.318,0.0
+783,440,0.0
+786,440.205,0.0
+787,440.34,0.0
+789,440.812,0.0
+792,447.536,0.0
+795,452.375,0.0
+800,458.347,0.0
+801,459,0.0
+804,473,0.0
+828,501.204,0.0
+835,510.3,0.0
+836,511,0.0
+842,514.26,0.0
+849,523.02,0.0
+850,525.11,0.0
+860,537.34,0.0
+871,551.054,0.0
+872,558.003,0.0
+879,560.253,0.0
+885,570.151,0.0
+893,581.185,0.0
+896,595.02,0.0
+905,605.0411,0.0
+907,605.0602,0.0
+914,608,0.0
+928,627.6675,0.0
+941,655.73,0.0
+945,667.5,1.0
+951,672.61,0.0
+958,682.405,0.0
+960,689.01,0.0
+964,697.01,0.0
+968,701,0.0
+976,703,0.0
+981,708,0.0
+996,718,0.0
+999,718.112,0.0
+1012,720.3085,0.0
+1027,733.106,0.0
+1029,733.401,0.0
+1030,733.504,0.0
+1031,733.617,0.0
+1033,733.802,0.0
+1036,736.0813,0.0
+1038,736.1018,0.0
+1043,743.047,0.0
+1049,750,1.0
+1053,756.568,0.0
+1058,766.103,0.0
+1063,768.21,0.0
+1065,768.25,0.0
+1066,768.28,0.0
+1067,768.31,0.0
+1073,772.103,0.0
+1075,775.084,0.0
+1077,775.15,0.0
+1080,777.201,0.0
+1102,804,1.0
+1103,804.12,0.0
+1107,809.23,0.0
+1108,810.08,1.0
+1110,814.04,0.0
+1114,817.52,0.0
+1121,828.073,0.0
+1122,830,0.0
+1124,831.09,0.0
+1127,843.01,0.0
+1128,847.0135,0.0
+1154,905,0.0
+1156,908.045,0.0
+1160,911,1.0
+1161,911,1.0
+1169,911.2,0.0
+1170,917.1,0.0
+1176,934,0.0
+1191,995,0.0
+1194,998,1.0
+1202,1019,0.0
+1206,1024.41,0.0
+1209,1029.8,0.0
+1210,1031,0.0
+1213,1031,1.0
+1219,1048,0.0
+1226,1090,1.0
+1237,1127,0.0
+1245,1197.5,0.0
+1259,1303.16,0.0
+1261,1312.04,0.0
+1262,1314,0.0
+1269,1343,0.0
+1270,1345,0.0
+1273,1385,0.0
+1285,1473.7,0.0
+1287,1491,0.0
+1292,1545.21,0.0
+1296,1608,0.0
+1297,1624,0.0
+1299,1637,0.0
+1308,1714.45,0.0
+1311,1717,0.0
+1312,1747.85,0.0
+1313,1781,0.0
+1314,1781,1.0
+1317,1798.93,0.0
+1319,1802,0.0
+1324,1901.05,0.0
+1326,1910.142,0.0
+1333,2016.04,0.0
+1334,2018.03,0.0
+1341,2025.25,0.0
+1342,2025.28,0.0
+1350,2030.21,0.0
+1353,2031.06,0.0
+1355,2031.26,0.0
+1361,2034.3,0.0
+1362,2102,0.0
+1364,2105.06,0.0
+1367,2118,0.0
+1368,2122,0.0
+1369,2127.2,0.0
+1383,2255,1.0
+1385,2255,1.0
+1387,2255,1.0
+1388,2255,1.0
+1395,2315.18,1.0
+1397,2324,0.0
+1400,2332,0.0
+1401,2355,0.0
+1404,2453,0.0
+1409,2701,0.0
+1415,2731.04,0.0
+1417,2741.02,0.0
+1423,2873,0.0
+1424,2901.01,0.0
+1425,2902,0.0
+1430,2913.04,0.0
+1436,2921.41,0.0
+1470,3113.3,0.0
+1472,3119.961,0.0
+1475,3127.21,0.0
+1479,3211,1.0
+1480,3211,1.0
+1484,3216,0.0
+1485,3225,0.0
+1494,3401,0.0
+1497,3425,0.0
+1513,3929.86,0.0
+1522,4123.8,0.0
+1524,4123.93,0.0
+1532,4504,0.0
+1533,4511,0.0
+1549,4722,0.0
+1554,4904,0.0
+1557,5001,0.0
+1561,5102,1.0
+1575,5701.02,0.0
+1579,5717.04,0.0
+1581,5956.6,0.0
+1583,6001,0.0
+1585,6055,0.0
+1589,6103,0.0
+1590,6107,0.0
+1602,8405,0.0
+1607,9781,0.0
+1608,9812,0.0
+1618,10842,0.0
+1620,10856,0.0
+1624,1930-10-07,1.0
+1628,11377,0.0
+1631,1932-09-11,1.0
+1632,12022.53,0.0
+1636,12143,0.0
+1638,1933-09-11,1.0
+1643,14503,0.0
+1649,17212,0.0
+1654,18942.1,0.0
+1658,1954-09-11,1.0
+1659,1955-09-11,1.0
+1664,23123,0.0
+1667,1963-12-01,1.0
+1674,25610,0.0
+1677,1970-05-18,1.0
+1681,1998-09-17,1.0
+1682,2001-01-03,1.0
+1689,2007-06-06,1.0
+1695,2013-11-05,1.0
+1700,43186.5444444,0.0
+1711,43563.5430556,0.0
+1712,2021-06-03,1.0
+1719,56568,0.0
+1724,68096.1,1.0
+1729,81008,0.0
+1733,93212,0.0
+1736,100000,0.0
+1738,105182,0.0
+1746,1953969,0.0
+1754,9436017,0.0
+1762,120141484,0.0
+1773,200235023,0.0
+1775,200405017,0.0
+1776,200438044,0.0
+1788,. section 47-36aa trust,0.0
+1790,"., In the Matter of Licenses 1050 et al. (Application 534 et al.), Natomas Central Mutual Water Company, 1999 WL 335122, at *19",0.0
+1800, Md. TRANSPORTATION Code Ann. section 20-103 Md. TRANSPORTATION Code Ann. section 20-103,0.0
+1802,rule 6.1,1.0
+1803, under the Fourteenth Amendment%2019s Due Process Clause,0.0
+1804,316.10(b)(3(iii),1.0
+1814,section 101,1.0
+1815,section 1030,1.0
+1821,section 80C.13,1.0
+1829,01G,1.0
+1835,"1,3 dimethylamylamine",0.0
+1836,1:4-8,1.0
+1839,1.163-8,1.0
+1840,1.163,0.0
+1846,1.6049-5(a)(4),0.0
+1853,10-8.3,1.0
+1856,100,1.0
+1861,102(c),0.0
+1864,1030(a),0.0
+1867,109:4-3-16(B),1.0
+1873,11,1.0
+1874,11,1.0
+1881,11,1.0
+1886,11-409,1.0
+1890,1109.3,0.0
+1903,12(a)(4),0.0
+1906,12(b)(1),1.0
+1918,12(f),0.0
+1919,12(f),1.0
+1930,13-22-107,1.0
+1946,14 C.F,1.0
+1950,147,1.0
+1956,15,1.0
+1959,15,1.0
+1961,15,1.0
+1966,15 U.S.C.A,1.0
+1970,15-2-25373-5,1.0
+1972,15-3-530(5),1.0
+1975,15(c),0.0
+1977,152.211,1.0
+1978,154.003,0.0
+1986,16,1.0
+1987,16,1.0
+1991,16-137-3857,1.0
+1992,16-137-3857,1.0
+1993,16-cv,1.0
+1999,1681p,1.0
+2003,17-40740,1.0
+2017,18,1.0
+2022,18 u.s.c. 1028(a)(4),1.0
+2026,18 U.S.C.S. section 2256(8),1.0
+2034,18.001,0.0
+2040,183,1.0
+2045,1980,1.0
+2047,1983,1.0
+2051,1983,1.0
+2053,1983,1.0
+2054,1983,1.0
+2063,2-619,1.0
+2067,2.1-127,1.0
+2073,20:3-35,1.0
+2089,20109(d)(2)(A)(ii),1.0
+2091,2013,1.0
+2097,2013,1.0
+2118,2017,1.0
+2121,2017,1.0
+2123,2018,1.0
+2125,2018,1.0
+2135,2018,1.0
+2138,2018,1.0
+2145,2018,1.0
+2147,2018,1.0
+2148,2018,1.0
+2150,2018,1.0
+2155,2018,1.0
+2156,2018,1.0
+2158,2018,1.0
+2163,2031.060(h),1.0
+2165,206(4),1.0
+2174,21,1.0
+2175,21,1.0
+2178,21 U.S.C. section 853(n)(2),1.0
+2184,21.14,0.0
+2192,21F,1.0
+2193,22,1.0
+2209,23(d)(1)(B),0.0
+2211,2307.71(A)(9),0.0
+2214,231(c),0.0
+2226,25 C.F,1.0
+2231,25,1.0
+2233,25,1.0
+2234,25,1.0
+2236,250,1.0
+2250,26(c),0.0
+2261,28,1.0
+2263,28,1.0
+2264,28 U.S.C. section 1915A,1.0
+2268,28 U.S.C. 1404,1.0
+2277,29 C.F,1.0
+2281,29,1.0
+2287,29 U.S.C. section 1392(c),1.0
+2302,3-200(B),1.0
+2305,3.353,0.0
+2306,3.4(b),0.0
+2311,30,1.0
+2320,30(b)(6),1.0
+2323,30(B)(6),1.0
+2328,305(a)(3),0.0
+2330,31 U.S.C. section 1341,1.0
+2346,33-3-28,1.0
+2350,35 u.s.c. section 145,1.0
+2358,36,1.0
+2359,36,1.0
+2373,37.02,1.0
+2379,39-10,1.0
+2380,390,1.0
+2386,4-113,1.0
+2390,4:17-7,1.0
+2408,405(b),0.0
+2418,42 U.S.C. section 1320a,1.0
+2427,42 U.S.C. Sec. 1983,1.0
+2432,42 usc 1983,1.0
+2444,440.13(2)(b),0.0
+2449,45(d)(3)(iv),0.0
+2451,45(f),0.0
+2454,456.4-416,1.0
+2457,46(f)(2)(b),0.0
+2461,47 u.s.c. 227,1.0
+2465,472,1.0
+2466,474,1.0
+2468,48,1.0
+2475,4905.02(A)(2),0.0
+2481,5 U.S.C. Section 552(a),1.0
+2488,5.2.4,0.0
+2491,50-h,1.0
+2494,50(a),1.0
+2502,51.32.240,0.0
+2515,523(a)(6),0.0
+2521,530 So. 2d,1.0
+2525,54:10A-13,1.0
+2533,55-7-13d,1.0
+2536,550 S.W,1.0
+2537,550.1915,0.0
+2538,5501.6,0.0
+2540,558.004(9),0.0
+2550,57.7(c),0.0
+2557,6.1(b),0.0
+2564,60.02(f),0.0
+2569,600.8031,0.0
+2570,600.8035,0.0
+2572,610.023,0.0
+2576,6308,0.0
+2578,644,1.0
+2581,64B16,1.0
+2592,68,1.0
+2595,6A:16-7.7,1.0
+2599,7-16-9,1.0
+2605,700,1.0
+2611,708(b)(6),0.0
+2615,713.01(14),1.0
+2619,743.106,0.0
+2632,8 c.f,1.0
+2633,8 U.S.C. section 1229a(b)(4)(B),1.0
+2634,8 U.S.C. section 1324(a)(1)(A)(iii),1.0
+2637,8-k,1.0
+2638,8.01-184,1.0
+2641,80,1.0
+2642,803(21),1.0
+2645,812,1.0
+2650,833,1.0
+2652,85.32,0.0
+2656,9 and 9,0.0
+2662,90.803(23),1.0
+2663,91,1.0
+2667,93-10-045,1.0
+2668,93-12,1.0
+2673,99,1.0
+2676,A motion under Fed. R. Civ. P. 59(e) also is appropriate if the court in the original judgment has failed to give relief on a certain claim on which it has found that the party is entitled to relief,0.0
+2677,A Sitting President%2019s Amenability to Indictment and Criminal Prosecution,0.0
+2678,"A Toyota %2018Fanboy,%2019 Data-Driven Testimony",0.0
+2679,A-88-167,1.0
+2680,a.b. 3418,0.0
+2683,A117.1,1.0
+2684,AB 1478,0.0
+2690,"act of May 25, 1918",0.0
+2693,affidavit for support I-864 puerto rico,0.0
+2698,april 22,0.0
+2700,article 10,1.0
+2702,article 40,1.0
+2704,Article 78,1.0
+2706,Article 78,1.0
+2713,article 78,1.0
+2716,article 9,1.0
+2719,attorney%2019s fees recoverable for tortious interference,0.0
+2723,B-293344.2,0.0
+2727,Baltimore in 1959,0.0
+2740,C-00945488,1.0
+2766,chapter 11,1.0
+2767,chapter 11,1.0
+2771,chapter 13,1.0
+2778,Chapter 782,1.0
+2781,Civ.R. 19,0.0
+2786,civ.r.59(A)(2) false testimony,0.0
+2787,Civil Code section1946,0.0
+2789,Civil Code 1798,1.0
+2790,Civil Code 3367,1.0
+2794,rule 60,1.0
+2796,rule 60,1.0
+2797,"clarifies that identifying the relationship of the applications means identifying whether the later-filed application is a continuation, divisional, or continuation-in-part of the prior-filed nonprovisional application or international application",0.0
+2800,class: 30),0.0
+2802,compa%f1%eda de parques nacionales de puerto rico,0.0
+2803,confession of judgment; parol evidence rule,0.0
+2805,CONN. GEN. STAT. 52-193,0.0
+2840,CR 37,1.0
+2845,crim.r. 5,0.0
+2851,DC-1221-13-2002-W-1,0.0
+2854,debtor and creditor law 273,0.0
+2855,"Dec. 17, 2007",0.0
+2858,Declaratory relief,0.0
+2865,doc! no. 1,0.0
+2869,ds 1205,0.0
+2873,Empty pallet,0.0
+2876,Engrossed Bill Report for Assembly Bill 1926,0.0
+2879,exclusionary rights,0.0
+2881,executive law 15,0.0
+2882,executive order 11246,0.0
+2887,F.R.C.P. 5,0.0
+2890,f075037,1.0
+2892,failure to respond 1106,0.0
+2898,family court act section 412,0.0
+2900,FAR 3.6,1.0
+2911,Fed. R. Crim. P. 42(a) ,0.0
+2913,Fed. R. Evid. 201,0.0
+2931,Foreign Investment Risk Review Modernization Act of 2018,0.0
+2934,Form 4180,0.0
+2943,FRCP 33,1.0
+2948,Future climate%2014 projected average.,0.0
+2949,G%e9raldine Whittaker,0.0
+2950,GA H.B. 24,0.0
+2956,government contracts chapter 11,0.0
+2963,h.b. 79,0.0
+2966,harris county court at law no. 1,0.0
+2970,Horim w 2 Yi,0.0
+2975,HUD Mortgagee Letter 2014-07,0.0
+2984,insufficient indictment,0.0
+2988,irrespective of the good faith or bad faith of the prosecution,0.0
+2992,issue raised on direct appeal 2255,0.0
+2994,Jason Horton,0.0
+3001,Judge Gleeson 924c Loretta lynch,0.0
+3006,La C Cr P Art 580,0.0
+3016,LMR Partners,0.0
+3035,Matter of Special Investigation 1198,0.0
+3039,MCL 128.871,0.0
+3041,mcl 500.3135(3)(e),0.0
+3046,mcr 7.103,0.0
+3062,MRE 611,0.0
+3065,N.C.G.S. 1-52(16),0.0
+3067,Rule 7,1.0
+3068,N.J. Stat. 2A:44-24,0.0
+3070,N.J.A.C. 14:18-4.6,0.0
+3071,N.J.A.C. 5:23-2.16(f),0.0
+3072,N.J.R.E. 704 ,0.0
+3074,N.J.S.A. 2A:44-25,0.0
+3080,NAVAIRINST 13034.1,0.0
+3095,not every [Section] 101 determination contains genuine disputes over the underlying facts material to the [Section] 101 inquiry,0.0
+3096,Notice 2010-41,0.0
+3100,NRS 41A.071,0.0
+3103,OAC 3745-352-01,0.0
+3105,ocga 42-1-14,0.0
+3108,"Ohio App. 9th Dist. Dec.21, 200",0.0
+3109,ohio civ.r. 60(B)(5),0.0
+3114,ORCP 45,0.0
+3118,ORGALIME S2000,0.0
+3121,ORS 701.625,0.0
+3131,"P.L. 637, No. 329",0.0
+3138,Penal Law 155..30,1.0
+3141,Per Capita,1.0
+3158,Proposition 21 + California,0.0
+3168,punitive damages 604.1 proposed amended complaint,0.0
+3173,R.C. 1510,0.0
+3174,R.C. 2315.19,0.0
+3176,R.C. 2911.12(A)(2),0.0
+3179,R277-720,1.0
+3182,RCW 2.40.020,0.0
+3190,Released his claims against,0.0
+3193,"Reshealth Medical Group , Schames, 4615",0.0
+3194,residency 183,0.0
+3199,restructuring professional 547 ordinary course of business,0.0
+3216,Rule 1.2(e),1.0
+3222,rule 105,1.0
+3224,Rule 11,1.0
+3226,Rule 11,1.0
+3227,Rule 12(b)(6) opposition to defendant's motion to dismiss,0.0
+3228,Rule 12(b)6),1.0
+3232,rule 12g5-1,1.0
+3236,rule 15,1.0
+3248,rule 23,1.0
+3252,Rule 26,1.0
+3256,rule 26(c),1.0
+3257,rule 26(c) protective order,0.0
+3266,Rule 30(b)(1),1.0
+3277,rule 33,1.0
+3280,rule 4,1.0
+3282,rule 4,1.0
+3287,Rule 40,1.0
+3289,rule 402,1.0
+3291,Rule 404(b),1.0
+3295,rule 408,1.0
+3301,rule 41(d) stay,0.0
+3316,Rule 52(c),1.0
+3330,Rule 6(b)(2),1.0
+3334,Rule 609,1.0
+3336,rule 62,1.0
+3342,rule 9(b),1.0
+3343,Rule of 78's,0.0
+3345,S. 1688 career criminal,0.0
+3351,s.b. 254,0.0
+3355,Sale under a plan,0.0
+3357,SARA panel,0.0
+3359,Savings: The Missing Element in Chapter 13 Bankruptcy Cases?,0.0
+3360,Sc%e8nes %e0 faire is an affirmative defense to copyright infringement. Sc%e8nes %e0 faire identifies and excludes from protection against infringement expression whose creation flowed naturally from considerations external to the author%2019s creativity. ,0.0
+3361,sec. 880,0.0
+3379,section 351 property,1.0
+3384,Section 5,1.0
+3389,section 8,1.0
+3394,Sen. Bill No. 863,0.0
+3397,"Senate Congressional Record, Proceedings, and Debates of 101st Congress First Session, 135 Cong, Rec S4238-01, 1989 WL 191889 (April 19, 1989)",0.0
+3400,serious health condition mixed question of fact and law,0.0
+3403,sets forth an enforceable right under 42 U.S.C.S. 1983,0.0
+3406,Sole source commodity,0.0
+3408,rule 53,1.0
+3409,rule 53,1.0
+3412,Stephen B. Jacobs Group,0.0
+3414,supplement no.15,0.0
+3415,rule 305,1.0
+3424,temporary labor camps 1910.142 definition,0.0
+3428,tex. r. civ. p 637 ,0.0
+3429,Tex. R. Civ. P. 193.3(b),0.0
+3432,"The Boeing Company, 365 NLRB No. 154",0.0
+3435,The definition has also been amended to exclude the subject matter of foreign exchange transactions.,0.0
+3437,The elements of a claim based on the federal common law of nuisance ,0.0
+3450,TRCP 131,0.0
+3454,Uber Drivers Take Riders the Long Way%2014at Uber%2019s Expense,0.0
+3460,"under the influence of intoxicating liquor, or of marijuana, narcotic drugs, depressants or stimulant substances, all as defined in section one of chapter ninety%2013four C, or while under the influence from smelling or inhaling the fumes of any",0.0
+3466,"United States v. Care, 18 U.S.C.M.A. 535, 541, 40 C.M.R. 247, 253 (1969)",0.0
+3467,unknown means,0.0
+3472,vexatiously,0.0
+3477,"Wigmore, Evidence section 285",0.0
+3478,within 10 days,0.0
+3485,workers' compensation 1099,0.0
+3489,Yxstian Gutierrez,0.0
+3490,(8x8 inc),0.0
+3496,(SME finance gap),0.0
+3505,(African Sunrise 18 Holdings),0.0
+3510,(Ferris and v and Secretary and of and the and United and States and Department and of and Transportation and No and 89 and C779 and C),0.0
+3511,(Fort Laramie Treaty of 1851),0.0
+3519,[2005] FCA 1242,0.0
+3520,[2012] EWHC 723 (Ch),0.0
+3527,section 10.18 FORFEITURE BY WRONGDOING,1.0
+3531,"section 1024.41 Loss mitigation procedures [Effective Oct. 19, 2017.]",1.0
+3539,section 12%2013301,1.0
+3546,"section 13.40 Complaint to Quiet Title to Real Property [Code Civ. Proc. sectionsection 760.020(a), 761.020]%2014Title by Adverse Possession [Code Civ. Proc. sectionsection 321%2013325]",1.0
+3550,section 1332,1.0
+3560,section 15-11-244. Modification of permanent guardianship order,1.0
+3566,section 15-13-4. Rule nisi; service,1.0
+3573,section 162.44 Complaint for Damages%2014Breach of Fiduciary Duty [Corp. Code section 309] and Fraud in Fixing Consideration for Shares [Corp. Code section 409(b)]%2014Shareholder%2019s Derivative Suit [Corp. Code section 800] Against Directors,1.0
+3579,section 184.150 Complaint for Cancellation [Civ. Code section 3412] of Deed and to Quiet Title [Code Civ. Proc. sectionsection 760.010%2013764.080] to Real Property%2014General Form,1.0
+3587,section 21-1102,1.0
+3588,section 21-128,1.0
+3601,section 289,1.0
+3606,section 3.05 Abandonment,1.0
+3608,"section 303.130 Complaint for Temporary Restraining Order, Preliminary Injunction [Code Civ. Proc. sectionsection 526, 527], Permanent Injunction [Civ. Code section 3422], and Damages [Civ. Code section 3333]",1.0
+3619,"section 349.100 Complaint [Fed. R. Civ. P., Rule 7] in United States District Court [28 U.S.C. section 1338] for Accounting, Damages [17 U.S.C. section 504], Preliminary and Final Injunctions [17 U.S.C. section 502; Fed. R. Civ. P., Rule 65] for Infringement of Copyright [17 U.S.C. section 501] and for Unfair Competition%2014Against Infringer%2014By Copyright Holder%2014Fed. R. Civ. P. Official Form No. 17",1.0
+3620,section 34C.242 Fixtures and Trade Fixtures,1.0
+3621,section 35.05 Two Dismissal Rule Creates Voluntary Dismissal With Prejudice.,1.0
+3628,section 4.06 MOVING PARTY%2019S PRESENTATION%2014Motion for Joinder Should Be Granted,1.0
+3636,section 502(c),1.0
+3639,section 523(a)(2),1.0
+3649,section 552A Contributory Negligence,1.0
+3650,section 560C.201 Petition [Prob. Code section 17201] for Construction of Trust Instrument [Prob. Code section 17200(b)(1)]%2014By Guardian Ad Litem of Beneficiary,1.0
+3652,section 6.06 Probable Cause to Arrest.,1.0
+3654,section 6.19 Personal Safety or Embarrassment of Witness.,1.0
+3658,section 68 Attorney--Client Privilege,1.0
+3660,section 74.4 Impossibility of Performance as a Discharge of Contractual Duty%2014Act of God,1.0
+3662,section 75-50,1.0
+3667,section 83.130 Allegation; Ownership of Automobile and Permissive Use by Operator [Veh. Code section 17150],1.0
+3670,"section 893.147. Use, possession, manufacture, delivery, transportation, advertisement, or retail sale of drug paraphernalia. [Effective until July 1, 2018]",1.0
+3689,section45-2-601,1.0
+3691,section51.901(c) Tex. Gov. Code,1.0
+3692,section537.058,1.0
+3701,%2022 In Re the Marriage of Phillip and Rachelle Spector 084628,1.0
+3712,%b6 524.10 Acceptance of Payments in Connection with Reaffirmation Agreements; section 524(l),0.0
+3723,04-CC-014895,1.0
+3730,08,1.0
+3731,08.64.364,0.0
+3732,08.68.100,0.0
+3735,0800-02-12.05,1.0
+3737,09-054,1.0
+3738,09-11903,1.0
+3739,09-505,1.0
+3752,1 NY PJI 2:70,0.0
+3759,1-060(b),1.0
+3768,1-7-160,1.0
+3771,"1,500 in attorneys fees",0.0
+3777,1:13-7,1.0
+3793,1:18-cv-00274,1.0
+3797,1:18-cv-10524-WGY,1.0
+3799,1:2017cv06837,1.0
+3813,1.165-9,1.0
+3817,1.280(c),0.0
+3821,1.367(d),1.0
+3824,1.404(a),1.0
+3828,1.442(c)(4),1.0
+3832,1.500(b),0.0
+3840,1.864-7,1.0
+3841,1%25 whole person impairment rating,0.0
+3843,10 U.S.,1.0
+3845,10 usc 113,1.0
+3848,10-16-106.5,1.0
+3853,10-3205,1.0
+3865,10.09.71.03,0.0
+3868,10.77.145,0.0
+3871,100-1.050,1.0
+3874,101.103,1.0
+3877,102-3-08,1.0
+3882,105,1.0
+3883,105-242,1.0
+3891,10b5,1.0
+3892,10harvlrev457,1.0
+3895,11 U.S.C. 363(f),1.0
+3900,11 usc 330,1.0
+3901,11 USC 362(c)(4)(D),1.0
+3913,11-43-7,1.0
+3919,11-702,1.0
+3923,11-9-504,1.0
+3924,11:22-5.8,1.0
+3930,1109,1.0
+3931,111,1.0
+3940,1128,1.0
+3953,118,1.0
+3955,119A,1.0
+3959,11th,1.0
+3961,11th,1.0
+3970,12-1241,1.0
+3971,12-25.5-111,1.0
+3972,12-3.1,1.0
+3974,12-313,1.0
+3975,12-36-101,1.0
+3988,12.420,1.0
+3990,12.44(b),0.0
+3993,12(B)(2),0.0
+3998,12(e),0.0
+4000,12(e),1.0
+4003,120-3-20,1.0
+4009,1203.097,1.0
+4013,1214(a)(6)(A),0.0
+4014,122,1.0
+4019,128.7,1.0
+4023,12b,1.0
+4025,12b6,1.0
+4030,13-11-1,1.0
+4034,13-1744,1.0
+4037,13-20-805,1.0
+4043,13-3,1.0
+4046,13-6-11,1.0
+4060,1300-1316,1.0
+4061,1300.68.01,0.0
+4063,130242,1.0
+4066,1330(a),0.0
+4068,134,1.0
+4069,134 S. Ct. 761-62.,1.0
+4075,1399.170.4,0.0
+4078,13a,1.0
+4084,14-10-113,1.0
+4087,14-10-115,1.0
+4089,14-10-124,1.0
+4095,14-113.20,1.0
+4098,14-159.13,1.0
+4100,14-2-318,1.0
+4106,14-208.6,1.0
+4109,14-277.5,1.0
+4112,14-301,1.0
+4119,14.15,1.0
+4124,1405,1.0
+4128,14300,1.0
+4130,1446(c),0.0
+4137,148 tc 14,1.0
+4140,149,1.0
+4148,15 U.S.C. section 1056(b),1.0
+4149,15 U.S.C. section 1056(b),1.0
+4152,15 usc 15,1.0
+4167,15-11-29.1,1.0
+4172,15-112,1.0
+4176,15-19-51,1.0
+4182,15-401,1.0
+4184,15-6-29.1,1.0
+4186,15-847,1.0
+4188,15.1-1250,1.0
+4193,15.2-2244.2,1.0
+4195,15.2-2286,1.0
+4205,15348,1.0
+4206,153a,1.0
+4211,1595a,1.0
+4216,15th,1.0
+4220,16-10-103,1.0
+4221,16-10-24,1.0
+4223,16-10-94,1.0
+4246,16-29-1,1.0
+4252,16-42-19-18,1.0
+4255,16-5-102,1.0
+4258,16-5-24,1.0
+4264,16-55-207,1.0
+4265,16-56051,1.0
+4266,16-56188,1.0
+4275,16-8-2,1.0
+4276,16-8-40,1.0
+4277,16-8-41,1.0
+4280,16-9-121,1.0
+4285,16-ca-96,1.0
+4288,16-P-1525,1.0
+4292,16.1-106.1,1.0
+4296,16.1-253,1.0
+4300,16.1-282.1,1.0
+4302,16.1-292,1.0
+4303,16.1-296,1.0
+4306,16.1-97.1,1.0
+4307,1601.12,1.0
+4309,163,1.0
+4318,16a,1.0
+4328,17-1188,1.0
+4333,17-17478,1.0
+4349,17-P-1005,1.0
+4353,17-P-840,1.0
+4356,17.34,1.0
+4360,1702,1.0
+4373,17C-16-9,1.0
+4379,18 U.S.C. 2520,1.0
+4385,18-10458,1.0
+4389,18-1502C,1.0
+4397,18-5a-5,1.0
+4398,18-60-201,1.0
+4399,18-8002A,1.0
+4400,18-804,1.0
+4407,18.2-128,1.0
+4411,18.2-170,1.0
+4413,18.2-178,1.0
+4425,18.2-255,1.0
+4427,18.2-268.2,1.0
+4435,18.2-36,1.0
+4439,18.2-472.1,1.0
+4440,18.2-479.1,1.0
+4447,18.2-60,1.0
+4451,18.2-95,1.0
+4454,18A,1.0
+4457,18th,1.0
+4458,19-11-35,1.0
+4460,19-13-4,1.0
+4464,19-211,1.0
+4469,19-6-2,1.0
+4475,19.2-127,1.0
+4477,19.2-183,1.0
+4480,19.2-188.1,1.0
+4484,19.2-258,1.0
+4487,19.2-268.2,1.0
+4488,19.2-300,1.0
+4492,19.2-386.11,1.0
+4503,191(1),0.0
+4507,1945,1.0
+4512,1976,1.0
+4514,1978,1.0
+4533,1996,1.0
+4539,1999,1.0
+4541,1q21.1,0.0
+4545,1st offender consolidated plea,0.0
+4547,2 Cal. C. Regs. 11008,0.0
+4556,2 sawy 129,0.0
+4558,2-100,1.0
+4566,2-207,1.0
+4575,2-610,1.0
+4584,"2:12cv3998. Galarza V. Ethicon, Inc. Et Al",0.0
+4590,"2:12cv7037. Sciumbata Et Al V. Ethicon, Inc. Et Al",0.0
+4595,"2:12cv8083. Mccumber V. Ethicon, Inc. Et Al",0.0
+4596,"2:12cv8211. Zember Et Al V. Ethicon, Inc. Et Al",0.0
+4598,"2:12cv9025. Barnes Et Al V. Ethicon, Inc. Et Al",0.0
+4605,"2:13cv1464. Wing Et Al V. Ethicon, Inc. Et Al",0.0
+4606,"2:13cv1521. Evans V. Ethicon, Inc. Et Al",0.0
+4610,2:16-cr-00265,1.0
+4623,2.,1.0
+4626,2.2-3700,1.0
+4630,2.4(8),1.0
+4639,20,1.0
+4651,20-139.1,1.0
+4652,20-151,1.0
+4658,20-280.8,1.0
+4661,20-75.1,1.0
+4663,20-99,1.0
+4666,20.203(a),0.0
+4667,20.2053-1,1.0
+4669,20(d),0.0
+4671,200.5(j)(2)(vi)(a),1.0
+4676,2001,1.0
+4680,2003,1.0
+4683,2004,1.0
+4685,2005,1.0
+4695,2007,1.0
+4697,2007,1.0
+4698,2007,1.0
+4699,2007-45917,1.0
+4702,2009,1.0
+4706,2009,1.0
+4709,201 8,1.0
+4711,2010,1.0
+4734,2013-2-063CV,1.0
+4736,2014,1.0
+4743,2014,1.0
+4744,2014,1.0
+4751,2015,1.0
+4753,2015,1.0
+4765,2015-09310,1.0
+4770,2016,1.0
+4779,2016,1.0
+4781,2016,1.0
+4787,2016-1,1.0
+4799,20182502F,1.0
+4800,2019,1.0
+4807,2030.300(c),1.0
+4811,2060-AT67,1.0
+4817,2090-1(e),1.0
+4819,21 u.s.c. 841(b),1.0
+4826,21-3-22,1.0
+4827,21-32-17,1.0
+4839,216-RICR,1.0
+4846,21st,1.0
+4850,22-138,1.0
+4851,22-18-118,1.0
+4857,220,1.0
+4862,223,1.0
+4865,227(b)(1)(a)(iii),1.0
+4868,22C-9-1,1.0
+4873,23-0.5-6,1.0
+4874,23-1-44,1.0
+4878,23-102-114,1.0
+4879,23-1044,1.0
+4881,23-18-11-11,1.0
+4885,23-38.81,1.0
+4895,23(D),0.0
+4898,23(f),0.0
+4900,230-RICR,1.0
+4923,24-2-1,1.0
+4926,24-4-401,1.0
+4927,24-4-403,1.0
+4931,24-4-412,1.0
+4940,24-72-201,1.0
+4944,24-8-820,1.0
+4946,24-9-21,1.0
+4949,24-9-902,1.0
+4954,24.43,1.0
+4973,25:2-27,1.0
+4974,25.2518-2,1.0
+4980,2520.104-23,1.0
+4988,26-1-2,1.0
+4989,26-1-9.1-103,1.0
+4998,26(a)(2)(b),0.0
+5001,26(B),0.0
+5012,26(g)(2),0.0
+5039,27-51-104,1.0
+5050,2744.02(B)(4),0.0
+5052,274a,1.0
+5053,276,1.0
+5064,28-2-450,1.0
+5066,28-2166,1.0
+5070,28-65-101,1.0
+5080,2805-m,1.0
+5081,280g,1.0
+5087,284-30-500,1.0
+5096,28A,1.0
+5097,28A,1.0
+5101,29 U.S.C. section 701,1.0
+5102,29-1-4-1,1.0
+5103,29-1-401,1.0
+5104,29-14-107,1.0
+5109,29-38,1.0
+5112,2909.01(C)(4),0.0
+5113,2917.21(A)(5),0.0
+5122,2A:18-53,1.0
+5124,2a:23b-17,1.0
+5139,2C:12-13,1.0
+5148,2C:36,1.0
+5150,2C:39-5b,1.0
+5156,2J1.1(b)(2),0.0
+5157,2k2.1 (b)(6)(B),0.0
+5163,"3 Cal. Proc. (5th), Actions",0.0
+5164,3 CCR .702-4:4-6-2,0.0
+5177,3-402,1.0
+5187,3:16cv06789,1.0
+5189,"3:17cv896. Mckinney, Jr. Et Al V. Peck-Pantier, Inc. Et Al",0.0
+5195,3:4A(b)(3),1.0
+5198,3.105(e),1.0
+5199,3.156(b),0.0
+5210,30-2608,1.0
+5214,30-5-1-1,1.0
+5222,30(s),0.0
+5225,300 us 1,1.0
+5226,300.520e,1.0
+5230,301.9100-3,1.0
+5232,3015(b),0.0
+5234,30260-13,1.0
+5236,303,1.0
+5240,307.86(B)(1),0.0
+5243,31,1.0
+5248,31,1.0
+5255,31-16-6-6,1.0
+5261,31-279-10,1.0
+5262,31-307,1.0
+5281,311,1.0
+5285,316.074,1.0
+5288,32 I.L,1.0
+5307,329-16,1.0
+5308,32A,1.0
+5319,33-24-9,1.0
+5320,33-30-1,1.0
+5325,33-7856,1.0
+5327,33.1-129,1.0
+5330,33.2-1219,1.0
+5335,337,1.0
+5336,337-ta-944,1.0
+5345,34-18-35,1.0
+5349,34-28-5-3,1.0
+5355,3420(a)(5),0.0
+5361,35 P.3d,1.0
+5362,35 U.S.C. section 156,1.0
+5369,35-38-1-3,1.0
+5374,35-42-4-14,1.0
+5381,35-45-1-5,1.0
+5394,36-1-113,1.0
+5401,36-3-611,1.0
+5404,36-4-6-21,1.0
+5409,36-6-203,1.0
+5410,36-98.1,1.0
+5412,36(a),0.0
+5416,362(b)(22),0.0
+5418,362(c)(3),0.0
+5420,362(d)(1),0.0
+5425,3663A,1.0
+5426,37-0201,1.0
+5438,3701-53-04,1.0
+5446,38,1.0
+5450,38 C.F,1.0
+5458,38-8-104,1.0
+5462,38.2-2206,1.0
+5464,38.2-3407.15,1.0
+5470,39,1.0
+5480,39-14-115,1.0
+5483,39-15-401,1.0
+5488,39-17-418,1.0
+5491,39-17-434,1.0
+5502,39.14,1.0
+5509,397.6955,1.0
+5512,3b:2,1.0
+5516,3M Co. et al. v. Commissioner,0.0
+5522,3rd party beneficiary,0.0
+5525,"4 Nimmer on Copyright (Matthew Bender), ch 19A, Bankruptcy sectionsection 19A.05-19A.07",0.0
+5526,"4 Ohio Jury Instructions (2002), Section 503.02",0.0
+5529,4-1.13,1.0
+5532,4-4.2(a),1.0
+5538,4:10-2,1.0
+5540,"4:14-cr-00044-DGK-1, 4:16-cv-00135-DGK",0.0
+5542,4:16-CR-0466-JAR,1.0
+5547,4:37-1,1.0
+5551,4:6-2,1.0
+5561,4.125(a),0.0
+5569,40-2-5,1.0
+5580,40-5-121,1.0
+5593,40-6-394,1.0
+5601,4001(a)(3),1.0
+5618,404(b),1.0
+5620,404(b),1.0
+5628,408(b)(20),0.0
+5631,40A:14-155,1.0
+5638,41-2223,1.0
+5647,41(a)(1)(B),0.0
+5648,41(b),0.0
+5651,412011CA000374,1.0
+5659,42 U.S.C. section 9619,1.0
+5681,42-4-802,1.0
+5691,426 s.w,1.0
+5693,42A,1.0
+5694,43 N.C.A,1.0
+5695,43-1-19,1.0
+5696,43-1411,1.0
+5699,43-18-46,1.0
+5702,43-4,1.0
+5704,43-71,1.0
+5706,431(b),0.0
+5715,44-7-1,1.0
+5720,440.09(3),0.0
+5722,440.13(3)(c),0.0
+5724,441-312,1.0
+5729,45-2-101,1.0
+5730,45-2-301,1.0
+5731,45-3-104,1.0
+5735,45.100,1.0
+5744,46,1.0
+5745,46 S. Ct.,1.0
+5750,46-3-7,1.0
+5751,46-30-202,1.0
+5763,46.2-384,1.0
+5766,46.2-804,1.0
+5769,46.2-852,1.0
+5777,46.2-921.1,1.0
+5779,46.61.140,0.0
+5780,460.6j(13)(b),1.0
+5783,46b,1.0
+5786,47-1382,1.0
+5788,47-50-109,1.0
+5789,47-813,1.0
+5798,48-5-311,1.0
+5803,48.193(2),0.0
+5814,49D04,1.0
+5818,4A1.2 (a)(2)(A),0.0
+5824,4th circuit 15-4640,0.0
+5830,"5 David L. Faigman et al., Modern Scientific Evidence section 41",0.0
+5831,5 day letter,0.0
+5843,5-26-305,1.0
+5854,5-501,1.0
+5861,5-64-436,1.0
+5865,5-73-120,1.0
+5870,5.,1.0
+5873,5.10,1.0
+5878,50-01,1.0
+5881,50-6-112,1.0
+5882,50-6-204(b)(2),0.0
+5884,50-626,1.0
+5885,50-906,1.0
+5896,502(b),0.0
+5897,502(e)(1)(B),0.0
+5900,506(a)(1),0.0
+5903,509.050.2,0.0
+5905,50cc,1.0
+5916,514B,1.0
+5920,52-260,1.0
+5921,52-423,1.0
+5928,52.1.26.4,0.0
+5929,52.209-7,1.0
+5935,524(f),0.0
+5950,54-16-82,1.0
+5952,54:4-8.40,1.0
+5962,547(e)(2)(A),0.0
+5963,549(b),1.0
+5977,55-79.43,1.0
+5978,55-9-610,1.0
+5989,56(c)(4),0.0
+5990,56(d),1.0
+5992,560:5-413,1.0
+5994,57-2-3,1.0
+6000,57.72(d)(1)(v),1.0
+6001,572n,1.0
+6002,578 so. 2d,1.0
+6004,58,1.0
+6014,58.1-1729,1.0
+6015,58.1-3233,1.0
+6022,587,1.0
+6023,59,1.0
+6024,59,1.0
+6026,59-2236,1.0
+6029,59:4-7,1.0
+6031,598,1.0
+6032,598,1.0
+6033,59fld6999489,1.0
+6046,6-1-105,1.0
+6048,6-2-314,1.0
+6049,6-2-316,1.0
+6058,6.2-1900,1.0
+6061,6.50,1.0
+6078,60(B)(1),0.0
+6079,60(d),0.0
+6082,60361,1.0
+6083,606 S.E.2d,1.0
+6090,61-3-11,1.0
+6093,61-6-301,1.0
+6097,61-8A-1,1.0
+6101,62-12-26,1.0
+6113,63.2-1000,1.0
+6120,63g,1.0
+6125,64.2-105,1.0
+6126,64.2-116,1.0
+6127,64.2-1614,1.0
+6135,647(a),1.0
+6138,65.2-603,1.0
+6139,65(b),0.0
+6147,66 So. 2d,1.0
+6152,66-7-105,1.0
+6153,66-7-109,1.0
+6155,66.01,1.0
+6156,66.01(b),1.0
+6157,66452.6,1.0
+6160,67-2,1.0
+6167,68 P.S.,1.0
+6174,690-149.003,1.0
+6182,7 Habits of the Client-Focused Lawyer,0.0
+6184,7 Law Firms That Moved the Needle on Innovation in 2017,0.0
+6185,7 mflu supp 86,0.0
+6187,7-1071,1.0
+6201,70-29-323,1.0
+6203,700.677-026,1.0
+6204,700.687-026,1.0
+6207,704.17(2)(a),0.0
+6214,70A,1.0
+6219,710:65-1-2,1.0
+6223,718.111(11),1.0
+6224,718.113(5),0.0
+6226,718.12,1.0
+6228,72-1-1,1.0
+6235,722-c,1.0
+6244,736.0103(16),1.0
+6247,743.07(2),1.0
+6249,7467a,1.0
+6255,755,1.0
+6259,76-5-109.1,1.0
+6272,775,1.0
+6273,778,1.0
+6278,78B,1.0
+6284,79,1.0
+6298,7th Court of Appeals,0.0
+6301,8 CRR-NY 80-5.4,0.0
+6312,8-320,1.0
+6320,8.01-,1.0
+6322,8.01-15.2,1.0
+6327,8.01-295,1.0
+6331,8.01-397,1.0
+6336,8.01-413,1.0
+6350,8.01-96,1.0
+6367,803(4),0.0
+6370,803(c),1.0
+6371,804.01(2)am,1.0
+6381,81-16-2,1.0
+6387,814 NE. 2b,1.0
+6402,84 N.W,1.0
+6406,85,1.0
+6410,862,1.0
+6412,87061538,1.0
+6417,88,1.0
+6427,892,1.0
+6432,9 U.S.F,1.0
+6435,9-11-,1.0
+6439,9-11-9.1,1.0
+6443,9-25-4-8,1.0
+6446,9-318,1.0
+6448,9-33-2-1,1.0
+6454,9.38,1.0
+6455,9.405-1(b)(3),0.0
+6456,9.41.040,0.0
+6463,90.803(18)(d),0.0
+6464,90,1.0
+6466,902(4),0.0
+6468,902(6),0.0
+6481,92F,1.0
+6488,935,1.0
+6497,95-3-0076,1.0
+6498,95.031(2),0.0
+6499,95.11(3)(c),0.0
+6501,95.11(c),0.0
+6502,96,1.0
+6513,9A.52.025,0.0
+6518,9th circuit denial of criminal deposition,0.0
+6521,A corporate entity cannot itself sign anything; it can act only through its agents.,0.0
+6522,"A party seeking a stay must show: (1) that he will likely prevail on the merits of the appeal, (2) that he will suffer irreparable injury if the stay is denied, (3) that other parties will not be substantially harmed by the stay, and (4) that the public interest will be served by granting the stay.",0.0
+6536,A16A0655,1.0
+6549,"ACA Int%2019l v. FCC, (D.C. Cir. Mar. 16, 2018)",0.0
+6550,aceleraci%f3n,0.0
+6558,ADA Section 1983 claims,0.0
+6559,ADC 40-3-15,0.0
+6562,administrative citation; land trust,0.0
+6571,Affidavit of Merit Statute NJSA 2A:53A-26,0.0
+6575,"Aggravated Sexual Assault, victim is less than 13",0.0
+6580,"Ala. Const., amend. 3",0.0
+6581,Alabama Act 2013-283,0.0
+6585,"Alan M. Ahart, The Inefficacy of the New Eviction Exceptions to the Automatic Stay , 30 A M . B ANK . L.J. 125, 132 (Winter 2006)",0.0
+6588,"Alcantara v. Hespe, OAL Docket No. EDU 11069-2014",0.0
+6607,American Trucking Ass%2019n v. City of Los Angeles,0.0
+6611,An Analysis of the 1981 Uniform Unclaimed Property Act,0.0
+6615,AND ATL5(Barro),0.0
+6618,ANSI-IKECA C-10,0.0
+6619,"Anti-SLAPP, 473",0.0
+6626,appeal from municipal zoning decision 30 days,0.0
+6635,"Arista Networks, Inc. v. Cisco Sys., 2018",0.0
+6638,"Ariz. v. Youngblood, 488 U.S. 51, 58, 109 S. Ct. 333, 337, 102 L. Ed. 2d 281, 289, 1988 U.S. LEXIS 5404, *14, 57 U.S.L.W. 4013",0.0
+6659,article 92,1.0
+6679,Assembly Bill 2766,0.0
+6684,atl15(cigna),1.0
+6690,atl3(securities),1.0
+6695,atl4(otherwise defend),0.0
+6697,attempt robbery rule 23 armed habitual,0.0
+6699,attempted aggravated robbery armed career criminal 924(e),0.0
+6704,attorneys fees chapter 38,0.0
+6715,B-289863.4,0.0
+6721,B-400760.4,0.0
+6731,B-415994,1.0
+6737,B092651,0.0
+6746,"back surgery 100,000 medical bills motor vehicle",0.0
+6747,"Bahnsen v. Boston Scientific Neuromodulation Corp., 2017 U.S. Dist. LEXIS (D.N.J. Dec. 15, 2017)",0.0
+6749,"BancorpSouth Bank v. Envtl. Operations, Inc., 2011 U.S. Dist. LEXIS 117010",0.0
+6757,bap 8002,0.0
+6768,Beneficiaries; deed signing; estate administration,0.0
+6770,"Berman v. Klassman (1971) 17 Cal. App. 3d 900, 910, 95 Cal. Rptr. 417",0.0
+6777,bitter 338226,0.0
+6778,BL2017-1037,1.0
+6781,Blanchette 419 U.S.,0.0
+6782,Bledsoe 18 Ga,0.0
+6788,"Bostic v. Georgia-Pacific Corp., 439 S.W.3d 332",0.0
+6791,brandishing a firearm 2B3.1(b)(2)(B) based on note to teller,0.0
+6799,"Breathitt County Bd. of Educ. v. Prater, 292 S.W.3d 883, 249 Ed. Law Rep. 468 (Ky. 2009).",0.0
+6802,"Brown v. Seay Logging & Hauling, LLC 90 Va. Cir. 491-92",0.0
+6806,"Burch v. Children's Hospital of Orange County Thrift Stores, Inc., 109 Cal. App. 4th 537",0.0
+6811,Business and Professions Code section 10137,0.0
+6817,business and professions code 6103,1.0
+6831,c 186 sec 12,0.0
+6833,C-2014-2427655 pa puc,0.0
+6839,C.C.P. section 411.35,0.0
+6844,c.g.s. 49-31l,0.0
+6847,C079797,1.0
+6849,C4,1.0
+6856,ca Health & Safety Code section1796,0.0
+6864,Ca. 10509.958,0.0
+6868,"Cadbury UK Ltd. v. Meenaxi Enterprises, Inc., 115 USPQ2d 1404, 1408 n.7 (TTAB 2015)",0.0
+6874,Cal Civ Code section 2924.12 material violation,0.0
+6875,Cal Civ Code @ 1033.5,0.0
+6877,Cal Civ Code @ 77,0.0
+6883,Cal Code Civ Proc section 703.140,0.0
+6888,evidence code 872,1.0
+6891,Cal Health & Safety Code 5150,0.0
+6901,Cal. Admin. Code tit. 10 section2970,0.0
+6903,Cal. Code civ proc S 77,0.0
+6905,cal. elect. code 9282,0.0
+6907,Cal. Gov't Code sec. 818.2 + failure to adopt,0.0
+6909,Cal. Govt. Code 828,0.0
+6912,Cal. reg. 22 Sec. 2706-1(a),0.0
+6913,Cal. Rules of court 8.115,0.0
+6915,"Cal. Welfare and Inst. code, section 7851",0.0
+6928,California Civil Code 2034.210,0.0
+6940,"California Code, Business and Professions Code - BPC section 17200",0.0
+6943,California Evidence Code section 813 easement,0.0
+6948,California government code section 2621.7,0.0
+6954,California Rule of Court 3.133,0.0
+6955,california rule of professional conduct 3.150,0.0
+6956,california rule of professional responsibility 2-100,0.0
+6957,California Rules of Court 27(d)(3),0.0
+6963,California vehicle code 17520,0.0
+6969,can you bind non-party to a Rule 9019 settlement,0.0
+6971,candle3,1.0
+6974,carol w2 howard,0.0
+6986,CCP section 2025.410,1.0
+6991,CCP section 2034.010,1.0
+6994,CCP section 439 judgment on the pleadings,0.0
+6998,ccp 1005,1.0
+7002,ccp 1030,1.0
+7004,CCP 1032,1.0
+7005,CCP 1033.5,1.0
+7009,ccp 1161,1.0
+7014,ccp 128.5,1.0
+7016,ccp 1281.2,1.0
+7018,CCP 1542,1.0
+7027,CCP 1985.3(g),1.0
+7034,ccp 2018.030,1.0
+7036,ccp 2020.010,1.0
+7037,CCP 2020.220,1.0
+7038,ccp 2023.010,1.0
+7040,CCP 2023.030,1.0
+7044,ccp 2025.220,1.0
+7051,ccp 2025.410,1.0
+7055,CCP 2025.610,1.0
+7057,ccp 2030.010,1.0
+7058,CCP 2030.010,1.0
+7059,ccp 2030.210,1.0
+7071,CCP 2031.220,1.0
+7075,ccp 2031.310,1.0
+7076,CCP 2031.320,1.0
+7081,CCP 2033.010,1.0
+7088,CCP 2034.210,1.0
+7089,ccp 2034.220,1.0
+7092,CCP 3040,1.0
+7093,ccp 337,1.0
+7095,CCP 338,1.0
+7105,CCP 394(a),1.0
+7106,ccp 411.35,1.0
+7108,CCP 415.20,1.0
+7111,ccp 425.16,1.0
+7122,CCP 436(b),1.0
+7126,ccp 437c(c),1.0
+7127,ccp 437c(e),1.0
+7137,CCP 564,1.0
+7149,CCP 695.210,1.0
+7153,CCP 704.730 income measure,0.0
+7163,CCP Section 473,1.0
+7168,CCR 31.5,1.0
+7170,CCR section 6616,1.0
+7175,Cerberus%2019s Top Legal Eagle Mark Neporent,0.0
+7180,"Certain Products Having Laminated Packaging, Laminated Packaging, and Components Thereof, Inv. No. 337-TA-874",0.0
+7192,chapter 12,1.0
+7195,chapter 163,1.0
+7225,cite(B-409295.5),0.0
+7226,"City and County of Denver v. State, No. 03-CV-3809",0.0
+7229,civ proc section 1005,0.0
+7235,Civ.R. 59(A)(4),0.0
+7241,Civil Code 1066,1.0
+7245,civil code 1624,1.0
+7256,civil code 3040,1.0
+7265,Civil Code 955,1.0
+7276,rule 12(b)(6),1.0
+7297,code civ pro 2031.230,0.0
+7313,code of civil procedure 1094.5,0.0
+7317,code of civil procedure 1985.3,0.0
+7335,Code of Federal Regulations 483.12,0.0
+7344,"Commonwealth of Pennsylvania v. Chesapeake Energy Corp., et al., Docket No. 2015IR0069 (Bradford Cty., PA)",0.0
+7349,complaint for code 3287,0.0
+7353,concurrent sentence penal code section 1170(h)(5),0.0
+7357,consensusdocs 510,0.0
+7360,construction claims; statute of limitations,0.0
+7364,continuance 12(b)(3) waive,0.0
+7365,"Contracts are to be construed in accordance with the parties%2019 intent, which is generally determined solely from the four corners of the document",0.0
+7367,"conversion, legal malpractice, breach of fiduciary duty, 3016(b)",0.0
+7369,"Cooper & Lewis, Weathering the Storm: International Loss of Hire Policies and the Problem of Unchartered Vessels and Stacked Rigs, 17 Hous.J.Int%2019lL. 203 (Winter 1994)",0.0
+7370,"Coordinated Constr., Inc. v. Canoga Big A, Inc., 238 Cal. App. 2d 313",0.0
+7375,corporations code 13290,0.0
+7378,Corrections Law section 77,0.0
+7382,costs for 102 divorce community,0.0
+7389,CPL 120.70,1.0
+7390,cpl 160.59,1.0
+7399,cpl 330.20,1.0
+7400,CPL 440,1.0
+7407,CPLR 23,1.0
+7411,CPLR 305(c)! name change! merger,0.0
+7412,CPLR 308,1.0
+7413,CPLR 308(2) waiver of defective service,0.0
+7417,cplr 3126 holdover,0.0
+7429,cplr article 16 barred employer indemnity contract,0.0
+7440,CR 45,1.0
+7447,CR 76.36,1.0
+7452,CRC 3.1327(c),1.0
+7454,CRC 3.1350,1.0
+7458,rule 5.74,1.0
+7464,criminal rule 16 filed,0.0
+7479,CV-17-881495,1.0
+7489,danger to community bail reform act 924(c),0.0
+7493,DCC-170,1.0
+7494,DCHRA 70 years old,0.0
+7504,PL 1304,1.0
+7521,DFARS 252.228-7001,0.0
+7534,diversion title 35,0.0
+7538,"Docket No. 185,507-U",0.0
+7544,domestic relations law 243,0.0
+7554,DRL 240 1b,0.0
+7567,education code 44944.05,0.0
+7568,education code section 45113,0.0
+7571,education law 6527(3),0.0
+7578,election code 9086(f),0.0
+7581,elements of a 1983 claim,0.0
+7593,ER 703,1.0
+7599,estate of yearly v. middlesex 2018 nj super,0.0
+7615,evidence code 210,1.0
+7619,Evidence code 352,1.0
+7626,evidence code 803,1.0
+7631,evidence code section 1200,0.0
+7637,"Ewing Constr. Co. v. Amerisure Ins. Co., 690 F.3d 628",0.0
+7640,exec. l. 752 prior conviction,0.0
+7641,Executive Directive 43,0.0
+7642,executive law 296(16),0.0
+7648,Exhibit 1 - Deposition Transcript Excerpt of Dr. Annear,0.0
+7649,export control act of 2018,0.0
+7651,f-5,0.0
+7656,pl 1306,1.0
+7662,fam code 6320,0.0
+7666,family code 210,1.0
+7671,family code 3111,1.0
+7675,family code 6344,1.0
+7676,family code 6710,1.0
+7679,family code 770,1.0
+7680,Family Code 853,1.0
+7692,Family Ct Act section 1012 [a]). Section 1012 (g),0.0
+7693,"family law 271, sanctions,",0.0
+7696,FAR 1.102,1.0
+7702,fdcpa 3201,0.0
+7709,Fed. R. Bankr. P. 3022 unliquidated claims,0.0
+7714,Federal Civil Rights Act of 1964,0.0
+7715,Federal Employers%2019 Liability Act.,0.0
+7716,"Federal Motor Carrier Regulations, Section 391.103",0.0
+7734,Federal Rule of Evidence 411,0.0
+7735,Federal Rule of Evidence 602,0.0
+7736,federal rule of evidence 801,0.0
+7741,federal rules of civil procedure 12,0.0
+7743,federal rules of civil procedure 33,0.0
+7745,federal rules of civil procedure 45,0.0
+7748,federal rules of evidence 201,0.0
+7750,Federal Rules of Evidence 803(6),0.0
+7757,find: 2007 U.S. Dist. LEXIS 50468,0.0
+7766,fish and game code 86,0.0
+7772,fla l weekly D2342,0.0
+7775,fla statute 627.428,0.0
+7783,Fla. Stat. 53.01,0.0
+7792,florida rule of civil procedure 1.280,0.0
+7808,form 50 lease,0.0
+7810,FORM 632-242.201 Long Form of Real Estate Purchase Option Agreement,0.0
+7812,form n-2,0.0
+7821,FRCP 11 sanction patent reasonable inquiry,0.0
+7823,FRCP 12b6,1.0
+7830,frcp 4m,1.0
+7834,FRE 408 settlement discussions in complaint,0.0
+7842,G.L. c. 40B,0.0
+7843,"G.R.A.V.I.T.Y., 177 S.W.3d",0.0
+7846,G.S.N.C. 75-41,0.0
+7851,Ga. Penal Code section 777 (1910),0.0
+7861,rule 13,1.0
+7876,Government Code 31831.3,0.0
+7877,government code 6255,0.0
+7878,government code 65915,0.0
+7880,government code 810,0.0
+7883,government code 835,0.0
+7887,Government Code Sections 6250,0.0
+7888,GOVERNMENT%2019S CONDUCT WAS VERY OUTRAGEOUS AND EXTREME TO SUE FOR EMOTIONAL DISTRESS,0.0
+7909,H.R. 4905,0.0
+7912,"H.R. Rep. 576, 100th Cong., 2d Sess. at 2119 (1988)",0.0
+7913,"H.R. Rep. 576, 100th Cong., 2d Sess. at 2119 (1988).",0.0
+7915,handicap; employment discrimination,0.0
+7918,"hart v. massanari, 266 f.3d 1155",0.0
+7919,"Harvard Law Review Vol. 102, No. 5 (Mar., 1989)",0.0
+7922,Headline (Release Therapy),0.0
+7931,Health and Safety Code 1371.4,0.0
+7942,hlead(atl2(FTI)),0.0
+7952,HRE 702,0.0
+7953,HRS 480,0.0
+7959,hunter v schultz (1966) 240 Cal. App.2d 24,0.0
+7962,I-130 petition when petitioner dies,0.0
+7971,IITA Section 203(a)(2)(P),0.0
+7981,In re Burton (1895),0.0
+7982,"In re Drake M., (2012) 211 Cal.App.4th 754",0.0
+7988,"In re Morse, NYLJ, May 19, 1998, at 25, col. 5 (Sur. Ct. New York County)",0.0
+7989,In re Olson 15-01580,0.0
+7996,ina 101(f),0.0
+7997,ina 212,0.0
+8001,Ind 32-31-1-1,0.0
+8002,"Ind. State Dist. Council of Laborers v. Omnicare, Inc., 583 F.3d 935",0.0
+8003,Indian Child Welfare Act; Designated Tribal Agents for Service of Notice,0.0
+8006,Indiana Public Law 154 (2018),0.0
+8007,indiana rule of criminal procedure 22,0.0
+8008,Indiana Rules of evidence 803(5),0.0
+8012,Industrial Welfare .Commission Wage Order 5-2001,0.0
+8018,injunction 57.105,0.0
+8028,"Insured-insurer communications as privileged, 55 A.L.R.4th 336",0.0
+8030,"Int'l Union of Petroleum & Indus. Workers, 870 F.2d at 1452 (9th Cir. 1989)",0.0
+8035,interrogatories 30,0.0
+8038,iowa civil jury instructions damages 200.19,0.0
+8052,"J.D. Miles & Sons, Inc., Comp. Gen. B-251533",0.0
+8062,JUD section 479,0.0
+8071,k9,1.0
+8072,k9 sniff positive alert probable cause,0.0
+8074,kentucky house bill 166 medical marijuana,0.0
+8075,Kentucky Rule of Evidence 702,0.0
+8086,La. Atty. Gen. Op. No. 13-0005,0.0
+8087,Rule 13.12,1.0
+8091,LAB section 191-a,0.0
+8109,labor code 246,1.0
+8116,labor code 3352,1.0
+8118,labor code 3600,1.0
+8119,labor code 3700,1.0
+8120,Labor Code 3750,1.0
+8122,LABOR CODE 4062.2,1.0
+8123,labor code 4067,1.0
+8124,labor code 4615,1.0
+8126,labor code 4658.7,1.0
+8137,labor code 5406,1.0
+8142,labor code 558.1,1.0
+8143,labor code 5710,1.0
+8144,labor code 5814.5,1.0
+8155,Labor Law section 240,0.0
+8156,labor law 193,1.0
+8157,labor law 195,1.0
+8160,Labor Law 241,1.0
+8173,LEGISLATIVE HISTORY%2014H.R. 4681,0.0
+8179,ley num. 269 de 20 de diciembre de 2011,0.0
+8185,lien law 39,0.0
+8186,lien to be paid off within 15 days,0.0
+8193,Limited Liability Company Section 509,0.0
+8200,LNSDUID-ALM-AMLAWR-1202796466692,0.0
+8206,LNSDUID-ALM-DLYRPT-hdh45jeif,0.0
+8207,LNSDUID-ALM-FLBSRV-1202799338640,0.0
+8209,LNSDUID-ALM-LAWTNW-1202788235354,0.0
+8210,LNSDUID-ALM-NJLAWJ-1202794716495,0.0
+8215,LNSDUID-ALM-NYLAWJ-1202641484110,0.0
+8217,LNSDUID-ALM-NYLAWJ-1202651473865,0.0
+8218,LNSDUID-ALM-NYLAWJ-1202739044919,0.0
+8221,LNSDUID-ALM-TXLAWR-hdi45lfll,0.0
+8225,Rule 11.2,1.0
+8231,Louisiana code of civil procedure 863,0.0
+8234,"Lucas v. Dynegy, Inc. (In re Dynegy, Inc.), 770 F.3d 1064",0.0
+8241,M.R.E. 412(b)(1),0.0
+8242,M2004-00270-COA-R3-CV,0.0
+8246,magner chapter 11 interim fee application,0.0
+8256,marital dissolution agreement 180 days void,0.0
+8262,mass g.l. c. 272 section 77,0.0
+8268,Rule 60(b),1.0
+8270,matter of culley nylj 1996,0.0
+8271,"Matter of Empire State Assn. of Assisted Living, Inc. v. Daines, 26 Misc. 3d 340, 887 N.Y.S.2d 452, 2009 N.Y. Misc. LEXIS 2380, 2009 NY Slip Op 29383",0.0
+8280,mcr 2.16,0.0
+8282,mcr 2.605 genuine issue material fact,0.0
+8287,Md. Ed. Art. 11-601,0.0
+8289,mechanic%2019s lien is a creature of Virginia%2019s statutes,0.0
+8291,medical malpractice; awarded; surgeries,0.0
+8299,Mental Hygiene Law 81.15,0.0
+8301,mental hygiene law article 81,0.0
+8315,"Minn. Stat. section 550.37, subds. 1",0.0
+8316,MINOR ROLE 3b1.1,0.0
+8322,Missouri approved instruction 4.03,0.0
+8329,model jury instruction 5.000,0.0
+8330,Model Rules of Prof'l Conduct r. 1.16,0.0
+8341,morgan v state pd-0758-15,0.0
+8347,motion for protective order under 57.03 that deposition be limited to questions not covered in first deposition,0.0
+8349,motion for sanctions family law 271,0.0
+8350,motion for sanctions family law code 271,0.0
+8351,Motion to dismiss 12(b)(5),0.0
+8355,motion to dismiss under section 707(b)(3),0.0
+8362,motion to reopen i-130 denial,0.0
+8379,Rule 28,1.0
+8380,N.C. R. Civ. P. 4(j)(5),0.0
+8382,N.J. Stat. section 2A:34-10 Plaintiff non-resident Defendant moved out of state,0.0
+8384,N.J.A.C. 58:10B-1 definition of brownfield site federal government property,0.0
+8385,N.J.A.C. 8:64,0.0
+8389,N.M. Stat. Ann. section Labs-testif-ied,0.0
+8391,N.Y. Penal Law sec. 130.52 intimate parts kissing,0.0
+8392,"N.Y. Penal Law sec. 250.45, landlord, public space",0.0
+8393,N.Y.L.L. 195,0.0
+8394,N.Y.S.2d,0.0
+8397,name(Student loan) 11th,0.0
+8399,"Nat'l Collegiate Student Loan Trust 2003-1 v. Beverly, 2014-Ohio-4346",0.0
+8401,nature 2015; 525: 127,0.0
+8402,NC 58-41-15,0.0
+8413,Nevada Rule of Professional Conduct 1.15,0.0
+8417,"New Milford Bd. of Educ., P.E.R.C. No. 93-102",0.0
+8418,New York City Building Code section28-301.1,0.0
+8420,NEW YORK PRACTICE section 168C,0.0
+8423,rule 1.25-a,1.0
+8437,NJAC 7.25-4,0.0
+8439,njsa 52:4b-34 248,0.0
+8440,njsa 6A:9B-9.3,0.0
+8443,No. 18-cv-1261,0.0
+8448,norman w\2 saffra,0.0
+8449,Rule 90(c),1.0
+8451,notice of removal FROM STATE COURT northern district 28 U.S.C. section 1446,0.0
+8461,ny 202.48,0.0
+8462,ny 5015 child support,0.0
+8463,ny cls cps 2.10,0.0
+8470,penal code 210,1.0
+8474,NY WCL Section 25A,0.0
+8476,NYGOL 7-103 failure to give notice,0.0
+8481,"O.C.G.A. 50-21-26, NOTICE OF CLAIM, COMPLAINT",0.0
+8498,ocga 17-7-170 misconduct,0.0
+8500,ocga 24-10-23,0.0
+8508,Ohio Jur 317 Executors,0.0
+8516,once a witness asserts 5th amendment privilege,0.0
+8528,rule 12.5,1.0
+8536,P-870235,1.0
+8541,pa corporate law 1554,0.0
+8543,pa title 23 domestic relations,0.0
+8550,paternity plan family law rules filed within 60 days,0.0
+8551,Patient Safety Act of 2001,0.0
+8557,pc 245,1.0
+8561,pc 290.5,1.0
+8562,pc 594,1.0
+8568,pen code 3051,1.0
+8571,penal 120.00,1.0
+8573,penal code 1000,1.0
+8574,penal code 1001,1.0
+8587,penal code 1237,1.0
+8590,penal code 1381,1.0
+8591,penal code 1473,1.0
+8594,Penal code 148,1.0
+8595,penal code 160,1.0
+8599,penal code 205,1.0
+8613,penal code 417,1.0
+8617,penal code 529,1.0
+8620,Penal Code 632,1.0
+8622,Penal code 647,1.0
+8625,penal code 825,1.0
+8639,penal code section1538.5,0.0
+8651,"People v. Foster, 2017 IL App (1st) 101376-U",0.0
+8655,People v. Phillips (1985) 41 Cal3d 29,0.0
+8658,"people v. superior court (romero), 13 cal. 4th 497",0.0
+8659,"People v. Williams (Jason Dennis), April 19, 2011 unpublished opinion",0.0
+8662,performance 15(a) transaction-based compensation,0.0
+8664,"Permissible sex discrimination in employment based on Bona Fide Occupational Qualifications (BFOQ) under section 703(e)(1) of Title VII of Civil Rights Act of 1964 (42 U.S.C.A. section 2000e-2(e)(1)), 110 A.L.R. Fed. 28",0.0
+8666,personal jurisdiction; breach of settlement agreement,0.0
+8668,Prob. Code section 17201,1.0
+8676,PL 195.05,1.0
+8677,pl 220.16,1.0
+8688,praecipe to mark mdj appeal stricken 1006,0.0
+8690,prisoner inmate 8th amendment deliberate indifference dangerous assault,0.0
+8694,probate 15403,1.0
+8697,Probate Code - section 19100,0.0
+8698,probate code 1061,1.0
+8704,Probate Code 850,1.0
+8705,probate code 9830,1.0
+8706,probate code sec 1471,1.0
+8707,probate code section 1043,1.0
+8708,probate code section 12201,1.0
+8722,pub utilities code 24300,0.0
+8724,Public Act 100-0184,0.0
+8726,Public Contracts Code section1104,0.0
+8727,Public Law 104-416,0.0
+8732,Puerto Rico ERS Enabling Act 2013,0.0
+8735,Q&A 09-036 medically determinable impairment migraines ruled out,0.0
+8745,R. 3:13-3,0.0
+8746,R. 3:25-4,0.0
+8749,R. 4:49-2,0.0
+8752,R.14-07-002,0.0
+8761,R.S. 15:571.15,0.0
+8766,Ray v. Ray NY 2008,0.0
+8768,RCRA-07-2007-0008,0.0
+8770,RCW 26.50,0.0
+8772,Real Property Law section 282,0.0
+8775,receiver 617,0.0
+8778,reduction in the automobile%2019s value or the reasonable cost of repairing it,0.0
+8779,References to: Cal Wel & Inst Code section 707.01(a)(5),0.0
+8781,REG-139633-08,1.0
+8789,Regulation Number 6213,0.0
+8790,rejection of 11(c)(1)(C) agreement abuse of discretion Fifth Circuit,0.0
+8791,Release Nos. 33- 10233,0.0
+8797,"residential capital, llc, et al. case no. 12-12020 12-12020-mg doc 1546",0.0
+8799,rule 3.01,1.0
+8800,Restatement (Second) of Conflict of Laws (1971),0.0
+8802,RESTATEMENT (SECOND) OF PROPERTY section 5.5 (1977),0.0
+8812,Restoration1,1.0
+8813,retaliation under 42 U.S.C. section1981,0.0
+8817,Revenue and Taxation Code 1605,0.0
+8832,RPAPL 1303,1.0
+8833,RPAPL 1304,1.0
+8838,rpapl 713,1.0
+8839,RPAPL 735,1.0
+8841,RPAPL 741,1.0
+8844,RPAPL 881,1.0
+8849,pl 446,1.0
+8851,rptl article 7,0.0
+8854,RSC 2524.4 (a),0.0
+8858,Rule 1:36-3,1.0
+8867,rule 107 misspelled defendant,0.0
+8868,rule 11 Alabama rules of criminal procedure,0.0
+8872,rule 12 motion police report in complaint,0.0
+8875,rule 12(b)(2),1.0
+8878,Rule 13 texas rules of civil procedure,0.0
+8887,Rule 165,1.0
+8893,Rule 2:506,1.0
+8895,Rule 216,1.0
+8909,Rule 27-13(k).,1.0
+8910,rule 3:13-3,1.0
+8922,rule 33 civil procedure interrogatories broadly construed,0.0
+8923,Rule 33(a)(1) interrogatories limit,0.0
+8928,rule 36,1.0
+8936,rule 4 summons time limit to serve,0.0
+8941,Rule 4:15,1.0
+8945,rule 4:9,1.0
+8947,rule 40,1.0
+8948,Rule 4003.1(a),1.0
+8949,Rule 4003.1(a) interrogatories,0.0
+8965,Rule 5-1,1.0
+8966,Rule 5:10 (2) Supreme court of virginia,0.0
+8967,rule 5:17,1.0
+8978,rule 55.01 civil procedure,0.0
+8979,Rule 56. Summary judgment,0.0
+8985,rule 59(e) overlooked the fact,0.0
+8987,rule 60(a),1.0
+8990,Rule 60(b)(5) motion granted,0.0
+8996,Rule 66.01(b),1.0
+9000,rule 702,1.0
+9002,Rule 8,1.0
+9014,rule of criminal Procedure 3.210(a),0.0
+9015,rule of evidence 403,0.0
+9020,rule of evidence 803,0.0
+9022,rule of professional conduct 1.7,0.0
+9023,rule prof conduct 4-200,0.0
+9026,Rules of Court 3.1324,0.0
+9030,"ryan v brophy, gestal, knoght & co sanwa bgk 12222 91 sup ct n y",0.0
+9043,s231765,0.0
+9065,SCR 60.04(1)(hm),0.0
+9077,section 12-106,1.0
+9078,Section 15-15-211 of the Colorado Revised Statutes,1.0
+9083,section 179,1.0
+9086,Section 19-10-26,1.0
+9090,Section 1983 mitigation of damages,1.0
+9091,"section 1983, malicious prosecution",1.0
+9095,section 29 of the Federal Deposit Insurance Act,1.0
+9100,section 351,1.0
+9105,Section 3902,1.0
+9108,Section 440.13(2)(f) Florida statutes,1.0
+9114,Section 600.1405,1.0
+9115,section 61,1.0
+9117,Section 619 of the business corporation law,1.0
+9129,senate bill 350,0.0
+9133,sentence under 4106A(b)(1)(C),0.0
+9135,"Seth Stoughton, 4th amendment, door, entry",0.0
+9140,"SHEARD v. STATE, 2016 GA S. Ct.",0.0
+9144,shep. Cal Civ Code section 3439.08,0.0
+9145,Shepard's%ae: 223 F.3d 898,0.0
+9146,Shepardize 226 SW3D 391,0.0
+9151,SJC-12447,1.0
+9169,"Stahlberg, Luke 406-270-9830",0.0
+9171,standard for new trial under 15-8,0.0
+9173,STANDARD OF REVIEW 3.850,0.0
+9191,state v. jones Docket No. A-3367-13,0.0
+9200,statute of limitations 18 usc 1028(a)(1),0.0
+9201,statute of limitations for a section 1983 claim,0.0
+9206,streets and highways code 1806,0.0
+9207,streets and highways code section 8324,0.0
+9210,sturley admiralty 2018,0.0
+9212,substitute judge 440 hearing,0.0
+9214,summary judgment 966,0.0
+9215,superior court standing order 1-96,0.0
+9216,supplemental security income adult childchild support arrearage 2002,0.0
+9217,Supporting Motion for Order for Deemed Admissions%2014Failure to Serve Timely Response [Code Civ. Proc. section 2033.280],0.0
+9218,Supreme court rule 287 willful and wanton,0.0
+9222,Synopsis to CHAPTER 16 : CALIFORNIA UNFAIR COMPETITION LAW BUSINESS AND PROFESSIONS CODE SECTION 17200,0.0
+9227,TBCA 12.02 A 1,0.0
+9235,Tenn. Comp. R. & Regs. 1200-03-29,0.0
+9238,Tex Trans 545.060,0.0
+9247,texas estate code 1022.007,0.0
+9269,the availability of compulsory process to compel attendance of unwilling nonparty witnesses 1404,0.0
+9284,time limitation 30 days 90 days 180 days,0.0
+9286,Title 26,1.0
+9294,title 7,1.0
+9295,title 8,1.0
+9304,transfer hearing proposition 57,0.0
+9305,"Transfer, fraudulent, two years, Chapter 7, trustee, lookback",0.0
+9307,transportation code 542.202,0.0
+9309,TRCP 199.2,0.0
+9322,trust fund penalty priority 11 USC 507(a)(8),0.0
+9331,U.S. v. 1010.8 Acres of Land,0.0
+9338,UCC article 9,0.0
+9347,Uniform Commercial Code Section 4-406(e),0.0
+9356,"united states v. cook Mar. 7, 2017",0.0
+9357,United States v. Freeman 2014,0.0
+9359,"United States v. Massiah, 307 F.2d 62, 66 (2d Cir. 1962), rev'd, 377 U.S. 201, 84 S.Ct. 1199, 12 L.Ed.2d 246 (1964)",0.0
+9374,utah bankruptcy fraudulent transfer chapter 13,0.0
+9376,"v Avco Financial Services, No NCC 11933",0.0
+9388,vehicle and traffic law 1180,0.0
+9389,vehicle and traffic law 511,0.0
+9397,verdict; malpractice; leg,0.0
+9399,vfc partners 26,0.0
+9400,vfc partners 26 v. cadlerocks,0.0
+9421,w&i 707,0.0
+9438,West Virginia Code 17 A-6 A-4,0.0
+9439,West Wyoming Statutes Title 29 Liens Chapter 1 General Provisions Article 4 Actions to Foreclose Liens,0.0
+9441,what are the grounds for dismissal under section 1112(b)(4) of the Bankruptcy code,0.0
+9443,"What constitutes driving, operating, or being in control of motor vehicle for purposes of driving while intoxicated statute or ordinance, 93 A.L.R.3d 7",0.0
+9449,where a person occupies a residence by a tenancy at will or tenancy at sufferance does the Landlord Tenant Act of 1951 apply?,0.0
+9450,whether a 30 day notice provision in an insurance contract is valid,0.0
+9463,"Williams v. State Farm Mutual Ins. Co. (Sept. 25, 2014)",0.0
+9469,wrongful death; disability; group home,0.0
+9472,WV 44D-10-1005,0.0
+9477,Probate Code - § 19100,0.0
+9483,"""CPLR 2201""",1.0
+9487,"""chapter 11 trustee""",0.0
+9491,"Fla. Stat. § 48.031 & ""affidavit proper on its face""",0.0
+9495,"""Rule 42""",0.0
+9520,"""section 8""",0.0
+9529,"""26(b)(2)(C)""",0.0
+9539,713,0.0
+9546,united states v. cook Mar. 7,0.0
+9549,12(b)(5),0.0
+9550,a witness cannot testify to what someone else was thinking rule 602,0.0
+9551,Ariz. v. Youngblood,0.0
+9553,"""440.13(2)(f)""",0.0
+9556,criminal rule 16,0.0
+9559,"""rule 4""",0.0
+9570,"""37(b)""",0.0
+9573,632.895 (5m),0.0
+9578,"""C-570-913""",0.0
+9594,"""cplr article 50""",1.0
+9595,"""joinder"" ""9-11-13(h)"" ""FDCPA"" ""separate""",0.0
+9598,35-38-1-17,0.0
+9599,WCL Section 29,0.0
+9604,"""chapter 13""",0.0
+9605,16-13-2,0.0
+9611,"""2921.38""",0.0
+9617,2 Mechem,0.0
+9622,substantial change circumstances,0.0
+9624,"""1404""",0.0
+9629,"""cplr 3116""",1.0
+9632,"""section 301""",0.0
+9634,§84.007,0.0
+9646,"""405(b)""",0.0
+9652,"""Section 5""",0.0
+9667,"""3101""",0.0
+9672,"""5.1""",0.0
+9682,1923.04 conspicuous,0.0
+9693,1.35,0.0
+9702,"""Article 78""",0.0
+9703,"""Fed. R. Crim. P. 42(a) """,1.0
+9711,No. 337-TA-794,0.0
+9714,2.4,0.0
+9724,"""93.002(e)""",0.0
+9735,9-11-!,1.0
+9741,Permissible sex discrimination in employment based on Bona Fide Occupational Qualifications (BFOQ) under § 703(e)(1) of Title VII of Civil Rights Act of 1964 (42 U.S.C.A. § 2000e-2(e)(1)),0.0
+9742,trial rule 15,0.0
+9743,316.193,0.0
+9757,"""54:32B-8.53""",0.0
+9760,"""CONN. GEN. STAT. 52-193""",1.0
+9764,"""FAA 20121602F""",1.0
+9773,"""RPAPL 711""",0.0
+9774,"""Rule 1033""",1.0
+9775,"""Rule 41""",0.0
+9776,"""Rule 45(f)""",0.0
+9777,"""sec. 880""",1.0
+9782,1332(d),0.0
+9784,"2255 + vague + ""crime of violence"" + sentencing guidelines",0.0
+9785,2255 ineffective assistance witness reversed,0.0
+9790,42 USC 1985(2) conspiracy,0.0
+9794,Article 134 kidnapping,0.0
+9795,california assembly bill 950,0.0
+9798,Gooding%2019s Supermarket,0.0
+9800,"N.Y. Penal Law sec. 130.52 ""intimate parts"" ""kissing""",0.0
+9814,"""12(b)(7)""",0.0
+9828,"""65589.5""",0.0
+9843,19.25 acres of land,0.0
+9844,2001 WL 391552,0.0
+9846,2017 WL 3392855,0.0
+9851,5.10 * CLEAR AND CONVINCING EVIDENCE,0.0
+9854,clean are act injuncti! grant 42 usc 7401 (d),0.0
+9855,inmate,0.0
+9856,La. Civil Service Rule 13.12,0.0
+9858,legislative bill 682,0.0
+9865,United States v. Massiah,0.0
+9868,12.02,0.0
+9874,"""567 F.2d 1183""",1.0
+9879,"""Fed. R. Civ. P. 30(a)(2)(A)(ii)""",1.0
+9883,"""nrcp 45""",0.0
+9885,"""rule 4.2""",0.0
+9892,1.641(b)-3(c)(1),0.0
+9903,42a-2A-201,0.0
+9908,Avon Realty,0.0
+9913,Deficit Reduction fiscal responsibility act of 1984 act,0.0
+9915,hart v. massanari,0.0
+9922,01:01,1.0
+9932,"""1292(b)""",0.0
+9933,"""13:2584""",1.0
+9937,"""18-1.3-1004""",0.0
+9940,"""200810015""",0.0
+9944,"""25 C.J.S. Damages""",1.0
+9946,"""29-3-3"" ""attorney's fees""",0.0
+9957,"""708(b)(6)""",0.0
+9960,"""8 U.S.C. § 1324(a)(1)(A)(iii)""",0.0
+9965,"""Commission Rule 210.28(h)(2)""",1.0
+9966,"""correction law 701""",1.0
+9967,"""CPLR 3121""",1.0
+9971,"""Fed. R. Evid. 609(b)"" probative",0.0
+9972,"""financial services modernization act of 1999""",1.0
+9975,"""Mil. R. of Evid. 412"" temporal proximity",0.0
+9979,"""Reshealth Medical Group"" ",0.0
+9994,§ 20-351.2,0.0
+9996,§ 24-13-112,0.0
+9997,§ 269.94 Complaint for Damages for Fraud and Deceit%2014Promise Made Without Intention to Perform [Civ. Code § 1710(4)]%2014General Form,0.0
+9998,§ 301,0.0
+10002,1-077(j) NMRA,0.0
+10004,14(c) contribution insurer,0.0
+10005,1404 transfer,0.0
+10010,2004 examination,0.0
+10015,2255 ineffective assistance,0.0
+10019,"237(a)(1)(h) ""otherwise admissible""",0.0
+10027,3900. WILDLIFE,0.0
+10029,412 motion,0.0
+10030,42 U.S.C. § 405(g),0.0
+10031,42 usc 1981 gender discrimination sovereign immunity,0.0
+10039,801(d)(2)(A) FRE,0.0
+10042,article 107 ucmj future,0.0
+10047,cal civ pro 340.6,0.0
+10048,chapter 13 co-debtor stay repossessed tractor trailer,0.0
+10056,hospital records 3122-a,0.0
+10059,"Maryland Local Rule 1-341 + ""bad faith""",0.0
+10067,Section 29,0.0
+10079,"""1.420(a)""",1.0
+10086,"""368(a)(1)(G)""",0.0
+10087,"""45(c)(2)(A)""",0.0
+10097,"""ORS 701.625""",1.0
+10102,"""rule 17""",0.0
+10119,2:12cv9683. Herb Et Al V. Ethicon,0.0
+10121,2018 NY Slip Op 51179(U),0.0
+10125,30(b)(6) depo,0.0
+10147,FORM 5.32 Notice of Removal from State Court to Federal District Court [28 U.S.C.S. §§ 1441,0.0
+10150,Green,0.0
+10153,illinois supreme court rule 212a5,0.0
+10156,labor code 558.1 private right of action,0.0
+10170,Treas. Reg. § 1.501,0.0
+10174,59:04:00,1.0
+10193,"""2951.041""",0.0
+10203,"""5 USC § 552 (a )(1)""",1.0
+10213,"""A.R.S. § 12-684""",1.0
+10214,"""act of May 25",0.0
+10219,"""Disclosing Sexual Harassment in the Workplace Act of 2018""",1.0
+10221,"""family court act § 412""",1.0
+10222,"""general obligations law 13-101""",1.0
+10228,"""Notice 89-35""",1.0
+10232,"""rule 33""",0.0
+10234,"""Rule 45""",0.0
+10236,"""Section 4615""",0.0
+10245,§1024.41(d),0.0
+10247,1031 exchange,0.0
+10250,1192 4,0.0
+10254,130A-290(35),0.0
+10270,2017 2018,0.0
+10271,2018 U.S. Dist. LEXIS,0.0
+10273,2019 ndaa cybersecurity,0.0
+10280,3211 Summary proceeding,0.0
+10285,49 U.S.C. § 5124 RCRA,0.0
+10287,53a-61,0.0
+10288,54.4980H-3,0.0
+10292,722 divorce,0.0
+10295,90.705 raw data,0.0
+10305,Code Civ. Proc.,0.0
+10306,Code Civ. Proc.,0.0
+10308,Cooper & Lewis,0.0
+10314,district court rule 9,0.0
+10319,Family Ct Act § 1012 [a]). Section 1012 (g),0.0
+10327,labor code 132(a),0.0
+10334,"Q&A 09-036 ""medically determinable impairment"" migraines ""ruled out""",0.0
+10339,S. Rep. No. 102-203,0.0
+10341,Sanders,0.0
+10343,SSR 82-61,0.0
+10344,State v. Wilson,0.0
+10348,utcr 2.100 protected information,0.0
+10353,1.115,0.0
+10356,1.630555556,0.0
+10368,"""@7-11.com""",0.0
+10370,"""§1614.105""",0.0
+10375,"""10b-5""",0.0
+10377,"""1104(a)(2)""",0.0
+10378,"""12(a)(4)""",0.0
+10387,"""18 Cal. 4th 1""",0.0
+10392,"""2307.80""",0.0
+10393,"""24-10-106""",0.0
+10395,"""2929.14(C)(4)""",0.0
+10399,"""363(d)""",0.0
+10401,"""3729 (a)(1)(B)""",1.0
+10405,"""405(b)"" ""civil"" ""character""",0.0
+10409,"""440.13(2)(b)""",0.0
+10410,"""4507.07""",0.0
+10413,"""5 vac 5-20-170""",1.0
+10421,"""706""",0.0
+10426,"""app.r.12(b)""",0.0
+10429,"""Civil Code §1946"" and ""certified mail""",1.0
+10434,"""DR 1-103 (a)""",1.0
+10435,"""EEOC appeal No. 01970727""",1.0
+10441,"""FRCP 15(a)""",0.0
+10446,"""Illinois Revised Statutes"" ""Article 8"" ""paragraph 101"" ""chapter 121""",0.0
+10449,"""JCCP 4042""",0.0
+10461,"""Rule 12(b)(6)"" ""opposition to defendant's motion to dismiss""",0.0
+10462,"""Rule 312""",0.0
+10465,"""rule 68""",0.0
+10473,"""womens prison healthcare",0.0
+10478,"§ 12.07 THE CORPUS DELICTI RULE: THE BAN ON THE ADMISSION OF ""UNCORROBORATED"" CONFESSIONS",0.0
+10479,§ 13.50 Interference With Prospective Economic Advantage and Other Wrongful Conduct.,0.0
+10480,§ 140.106 Complaint for Damages [Civ. Code § 3300] for Breach of Contract%2014Promissory Estoppel as Substitute for Consideration,0.0
+10481,§ 140.143 Affirmative Defense%2014Statute of Frauds [Civ. Code § 1624],0.0
+10485,§ 537.74 Statement of Undisputed Material Facts Supporting Motion for Summary Judgment [Code Civ. Proc. § 437c(b)(1); Cal. Rules of Ct.,0.0
+10488,1:16cv2351. Bell Et Al V. 3m Company,0.0
+10491,1099 reporting for goodwill credits,0.0
+10492,1129(a)(11),0.0
+10503,12-751 1952,0.0
+10514,18702.2(11),0.0
+10515,18A-4-8b(g),0.0
+10516,18th JDC,0.0
+10533,28 U.S.C. Section 2255 Motion to Vacate,0.0
+10534,28 usc 1927 form motion,0.0
+10535,29 Misc3d 1207 [A],0.0
+10538,30(d),0.0
+10539,303 Breach of Contract%2014Essential Factual Elements,0.0
+10541,33 U.S. Code § 1365 - Citizen suits,0.0
+10542,35-42-4-1( a)(1),0.0
+10548,4:37-1 statute of limitations,0.0
+10556,"501(c)(6) ""unrelated business income""",0.0
+10557,502(a) waiver,0.0
+10567,88 Yale LJ 1665,0.0
+10574,alabama rule 59a,0.0
+10576,arkansas rule of civil procedure 12b(6),0.0
+10577,article 42.12,0.0
+10580,Breach of covenant for quiet enjoyment in lease,0.0
+10599,Consumer Credit Insurance,0.0
+10612,Fla. Stat. § 726.102 solvency,0.0
+10622,H. Drinker,0.0
+10624,In re Gavin T.,0.0
+10641,millington,0.0
+10642,Moore v. Ashland Chemical,0.0
+10644,motion,0.0
+10647,penal code section 273d(a),0.0
+10651,Proof of Entitlement to,0.0
+10657,residential capital,0.0
+10662,Rule 1.280,0.0
+10663,rule 1:4,0.0
+10672,shep. Cal Civ Code § 3439.07,0.0
+10674,State v. Addenbrook,0.0
+10676,Synopsis to CPLR § 2301 : Scope of subpoena.,0.0
+10679,Title 3B nj statute,0.0
+10681,uniform justice court rule 2.12,0.0
+10688,WCL § 2,0.0
+10695,1.272222222,0.0
+10698,489,0.0
+10699,501.201,0.0
+10705,2744.01,0.0
+10706,2917.11,0.0
+10707,3403,0.0
+10710,43422.21528,0.0
+10711,43540.33403,0.0
+10714,"""§ 3502.1""",0.0
+10720,"""11 Williston on Contracts § 31:5""",1.0
+10723,"""12 CFR 1024.36""",0.0
+10736,"""2018 Bill Tracking MD S.B. 566""",1.0
+10746,"""26-6 ABIJ 18""",1.0
+10748,"""28 USC 1292(b)""",0.0
+10758,"""403""",0.0
+10760,"""42 U.S.C. Sec. 1983""",1.0
+10774,"""54:10A-13""",0.0
+10775,"""548 S.W.3d""",1.0
+10784,"""64.2-1416""",0.0
+10785,"""69(a)""",0.0
+10786,"""6A:9B-4.4""",1.0
+10795,"""894 F.3d""",1.0
+10796,"""896 F.3d""",1.0
+10797,"""9:315.18""",1.0
+10806,"""CPLR 5521""",1.0
+10807,"""earned income credit"" 2016 ""14",0.0
+10812,"""H.B. 5490""",0.0
+10819,"""MCR 2.312""",1.0
+10823,"""Penal Code section 12022.5",1.0
+10833,"""Rule 26(a)(1)""",0.0
+10836,"""rule 45"" contempt",0.0
+10838,"""rule 59(e)""",0.0
+10842,"""section 951""",0.0
+10849,%2022 N.M. Stat. Ann. § 52-17-1,0.0
+10851,§ 13.40 Complaint to Quiet Title to Real Property [Code Civ. Proc. §§ 760.020(a),0.0
+10860,§ 21-128,0.0
+10861,§ 287.120 mo. rev. stat. co employee intoxication,0.0
+10865,"§ 4 Sentencing Under ""Three Strikes""",0.0
+10879,08 Civ. 5668 (KMW),0.0
+10883,10 usc 113 note,0.0
+10886,101.106 against a judge,0.0
+10889,11 Civ. 4039,0.0
+10895,12 U.S.C. 1701x(c)(5) 200 miles from a branch office,0.0
+10899,13.180 * PLAINTIFF'S COMPARATIVE NEGLIGENCE,0.0
+10904,153a-349.3,0.0
+10905,16 Ark. L. Rev. 270,0.0
+10908,17 A.L.R. 359,0.0
+10910,1980 Ill. App. LEXIS 2289,0.0
+10911,1st Media,0.0
+10914,2:12cv5257. Hartwig Et Al V. Ethicon,0.0
+10925,2017 U.S. Dist. LEXIS,0.0
+10927,2018 NH Regulation 6100,0.0
+10929,22 NYRCC 202.70,0.0
+10938,28A-14-1,0.0
+10940,3 Anderson,0.0
+10945,31-4-14:13,1.0
+10947,33 misc 3d 1214,0.0
+10952,38 usc 7105 appeal to Court of Veterans Appeals a denial of Board based on lack of jurisdiction,0.0
+10954,40 CFR 745.227,0.0
+10956,40-35-111,0.0
+10963,488 So 2d 520,0.0
+10966,507(a)(7),0.0
+10969,52-577,0.0
+10976,631.43 Other insurance provisions,0.0
+10979,"7.41 Petition for Order Determining Trust%2019s Title to Property (""Heggstad Petition"").",0.0
+10986,94 J. Tax'n 301,0.0
+10988,Amstar Corp v. Domino%2019s Pizza,0.0
+10992,Ariz. Rev,0.0
+11001,Bystrom v. Whitman,0.0
+11016,Civil Rule 5.01,0.0
+11024,Coram v. State (Ill. Dep't of State Police),0.0
+11025,Costa v. Metro Life Ins. Co.,0.0
+11027,CR&TC § 19133,0.0
+11033,"ERISA ""401(k)"" ""Commission"" violating fiduciary duties",0.0
+11038,Fed. Rule 30(b)(6),0.0
+11041,fla cases of 1000 feet of schools,0.0
+11046,FPR 1-7.202.22,0.0
+11051,General Statutes §42a-3-203(b),0.0
+11070,"joint stipulation supplement record ""App. R. 9(E)""",0.0
+11084,Minuteman Trucks,0.0
+11086,modified chapter 13 plan,0.0
+11087,Motion for Rule 11,0.0
+11089,N.M. Stat. Ann. § Labs-testif-ied,0.0
+11094,Notice of Intent Pursuant to Supreme Court Rule 90(c),0.0
+11099,Pa. C.S. § 5524,0.0
+11101,penal code § 17,0.0
+11108,restatement of the law,0.0
+11112,rule 4:5,0.0
+11118,slaughter-house cases,0.0
+11119,Soundboard Ass'n v. United States Ftc,0.0
+11125,State v. Seelig Court of Appeals of North Carolina November 15,0.0
+11127,supreme court rule 604,0.0
+11132,Title 32 status,0.0
+11139,Vasquez v. Residential Investments,0.0
+11148,1.002083333,0.0
+11159,702.9,0.0
+11160,704,0.0
+11161,944.47,0.0
+11164,3353,0.0
+11176,"""110 LRP 2301""",1.0
+11189,"""2005- 50 § 1""",0.0
+11190,"""201(k)""",0.0
+11194,"""21.365""",0.0
+11198,"""22:2208 """,0.0
+11199,"""221 INV -3""",1.0
+11202,"""245.11""",0.0
+11204,"""25 C.F.R. § 2.8""",1.0
+11208,"""2-619""",0.0
+11212,"""28 Fed. Appx. 648""",1.0
+11216,"""3(a)(8)""",0.0
+11220,"""33-3-28""",0.0
+11222,"""350 Long Beach LLC""",1.0
+11223,"""365(n)""",0.0
+11226,"""3-D""",0.0
+11228,"""4:24-1(c)""",1.0
+11230,"""408.032""",0.0
+11232,"""4-113""",1.0
+11236,"""4615""",0.0
+11237,"""47-16-5""",0.0
+11242,"""52.246-12(i)""",0.0
+11244,"""558.004(9)""",0.0
+11248,"""605.0411""",0.0
+11259,"""92-817""",0.0
+11262,"""A117.1""",0.0
+11264,"""adultery""""5th amendment""",0.0
+11268,"""august 15",0.0
+11270,"""Barth v. Deuel",1.0
+11271,"""C.A.R. 27""",0.0
+11277,"""Civil Code 3367""",1.0
+11289,"""F.R.C.P. 5""",0.0
+11293,"""Fed. R. Evid. 609(b)"" probative value substantially outweighs",0.0
+11296,"""Federal Rule Appellate Procedure 24"" due process",0.0
+11299,"""form interrogatory no. 12.6""",1.0
+11306,"""in violation of judiciary law § 468-a""",1.0
+11318,"""N.H. R. Crim. Proc. Rule 7""",1.0
+11319,"""N.J. Stat. 2A:44-25""",1.0
+11321,"""new jersey rule! of professional responsibility 1.7""",1.0
+11325,"""ocga 50-18-72""",1.0
+11328,"""orcp 53""",0.0
+11329,"""ORS 83.730""",1.0
+11339,"""rule 105""",0.0
+11345,"""Rule 405(b)""",0.0
+11358,"""TD 7456""",0.0
+11365,"""United States v. Care",1.0
+11368,"(""pgi acquisition"")",0.0
+11369,(a)(4),0.0
+11374,§ 103.94 Complaint for Damages%2014Fraud,0.0
+11381,§ 170 Cross-examination in general,0.0
+11388,§ 334.62 Complaint by Tenant Against Landlord for Actual and Punitive Damages for Wrongful Eviction [Civ. Code §§ 3294,0.0
+11392,"§ 36 THE EFFECT OF CAPTIONS AND HEADINGS%2014""QUOTATION",0.0
+11396,§ 46. Lien for Medical Services,0.0
+11408,1.410 trial subpoena,0.0
+11410,105 A.D.Sd 542,0.0
+11411,10th Cir. R. 35.2,0.0
+11412,11 USC 523(a)(3)(B) discharge,0.0
+11416,12(b)1 motion to dismiss,0.0
+11418,12653 recovery of costs,0.0
+11443,183 SW 3d 593,0.0
+11447,1978 PA 368,0.0
+11450,1983 damages,0.0
+11461,20 CFR 725.308 written diagnosis,0.0
+11464,2006 WL 1635423,0.0
+11470,2011 U.S. Dist. LEXIS,0.0
+11476,2015 U.S. Dist. LEXIS 117638,0.0
+11484,2018 TNT 162-6QUALIFIED OPPORTUNITY ZONES:,0.0
+11485,2018 U.S. Dist. LEXIS 134368,0.0
+11488,2018 us dist lexis 9541,0.0
+11489,2018 WL 1381133,0.0
+11490,2018 WL 1565453,0.0
+11498,212(i) waiver,0.0
+11499,2-1402 defunct company former officers,0.0
+11504,22 la law review,0.0
+11505,22 U.C. Davis L. Rev. 1,0.0
+11521,26 Va. L. Rev. 362,0.0
+11522,263 AM. JUR. 2D Eminent Domain,0.0
+11532,3 §702 5-1-10,0.0
+11535,3.103 void ab initio,0.0
+11536,30(b)(6) deposition location,0.0
+11543,32 L.P.R.A. Ap.V,0.0
+11548,35 usc 102(a) own disclosure assignee,0.0
+11551,36 cal rpt. 2d 814,0.0
+11560,37.05 CCP § 998 Offer Allows Judgment to Be Taken or an Award to Be Taken in Accordance With Certain Terms and Conditions.,0.0
+11563,39: 3-29c,0.0
+11564,4.12.020 out state defendant,0.0
+11565,4.17- CREDIBILITY OF WITNESSES,0.0
+11567,405(b) specific instance truthful,0.0
+11569,409A discount,0.0
+11573,42: 2202,0.0
+11581,453 heroin,0.0
+11584,47 Geo. L.J. Ann. Rev. Crim. Proc. i,0.0
+11595,537.065 agreement,0.0
+11603,5C1.1 Application note 6,0.0
+11609,66452.6 CEQA delay moratorium,0.0
+11612,68 cal.3d 319,0.0
+11618,702 literature cited by counsel not the expert,0.0
+11619,"710 IAC 1-22-6 ""processing fee""",0.0
+11624,755 F. Supp 2 393,0.0
+11638,89 Ops.Cal.Att.Gen. 204,0.0
+11645,Acklin Stamping,0.0
+11653,Appeals of Switlik Parachute Co.,0.0
+11658,article 9 of the uniform,0.0
+11660,Artus v. Gramercy Towers Condominium Association (2018) 19 C.A.5th 923,0.0
+11674,Cal Pub Util Code § 21113,0.0
+11688,chapter 163 fl statutes,0.0
+11693,City of Providence v. Aeropostale,0.0
+11695,Clearon Corp. v. United States,0.0
+11698,Code of Alabama,0.0
+11701,Colorado Cross-Disability Coal. v. Too (Delaware) Inc.,0.0
+11708,cr 76.20,0.0
+11713,defendant-appellant burden RPAPL 1304 summary judgment,0.0
+11715,"department of corrections ""AR 327""",0.0
+11717,DEUTSCHE BANK NATIONAL TRUST COMPANY V. LAWSON,0.0
+11720,Dynamex Operations West,0.0
+11723,employment,0.0
+11732,Federal Motor Carrier Regulations,0.0
+11736,First Nat%2019l Bank v. Bailey,0.0
+11737,Florida Administrative Rule 59A-12.030,0.0
+11744,Garity v. APWU Nat'l Labor Org.,0.0
+11745,general rule 13,0.0
+11747,Glascoff v. OneBeacon Midwest Ins. Co.,0.0
+11750,Golla v. City of Bossier City,0.0
+11755,Harvard Law Review Vol. 102,0.0
+11756,Hillside Place,0.0
+11758,in re davis CC800408,0.0
+11766,Iowa Admin. Code § 701-2.25,0.0
+11776,labor code 5402 (b),0.0
+11777,Labor Law § 240,0.0
+11783,Mako Surgical Corp. et al. v. Blue Belt Technologies,0.0
+11786,Massachusetts Rules of Civil Procedure Rule 60(b),0.0
+11788,Md. Code Ann. § 14-1313,0.0
+11792,misdemeanor search warrant,0.0
+11794,Mo. Rev. Stat. § 401.009,0.0
+11798,N.C. R. App. P. Art. VI,0.0
+11804,Neighborhood Legal Services of Los Angeles County v. Workers%2019 Compensation Appeals Bd.,0.0
+11805,New Appleman on Insurance,0.0
+11811,ny pl 120.05,0.0
+11812,OAC 4123:1-5-04,0.0
+11813,Ochoa v. Empresas ICA,0.0
+11814,Ohio Rev. Code 5311.18 lien priority,0.0
+11819,PA. STAT. § 4307(a),0.0
+11834,Quest Diagnostics Inc.,0.0
+11835,r. 3:22-12,0.0
+11847,retaliation under 42 U.S.C. §1981,0.0
+11869,South Pasadena Police Officers' Assn. v. City of South Pasadena,0.0
+11871,State v. Obermiller,0.0
+11875,Surrogate Czygier; relief against a fiduciary,0.0
+11878,title 39,0.0
+11881,Title VII Sex Discrimination in Employment -- Supreme Court Cases,0.0
+11900,17:31,1.0
+11903,1.3,0.0
+11919,202.21,0.0
+11920,317,0.0
+11923,545.401,0.0
+11924,614.1,0.0
+11930,1325,0.0
+11932,2319,0.0
+11935,$6,0.0
+11938,43315.33403,0.0
+11939,43526.33403,0.0
+11945,""" 35 U.S.C. § 262""",1.0
+11946,""" 47:1a-9!",0.0
+11948,""" interrogatories"" 28 U.S.C. § 1746",0.0
+11954,"""[2008] WASC 239""",1.0
+11958,"""§ 80C.13""",0.0
+11959,"""§§ 102(a) and 102""",1.0
+11960,"""00811""",0.0
+11967,"""10 lpra 279",0.0
+11971,"""1030(a)""",0.0
+11972,"""105(a)""",0.0
+11979,"""11 U.S.C. § 544""",0.0
+11981,"""110 S. 22""",1.0
+11983,"""1109.3""",0.0
+11987,"""12 C.F.R. sec. 1024.41(b)""",1.0
+11997,"""13 Corbin on Contracts § 68.9""",1.0
+12002,"""13-22-107"" & arbitration",0.0
+12010,"""15(c)""",0.0
+12023,"""17-16-4(b)""",0.0
+12028,"""177 S.W.3d 676""",1.0
+12031,"""18 U.S.C. § 3238""",0.0
+12039,"""1980 standard ordinary mortality table""",1.0
+12041,"""2 More Filings Highlight High Stakes Behind Colliot FBAR Order""",1.0
+12046,"""2006-4""",0.0
+12055,"""21 CFR 135""",0.0
+12060,"""210.24(b)(1)""",0.0
+12062,"""215 cal. app. 4th""",1.0
+12066,"""2307.71(A)(9)""",0.0
+12067,"""2312-10""",0.0
+12068,"""231-23(d)""",0.0
+12073,"""24-4.6-6-2""",0.0
+12079,"""261 subd. (a)(1)""",1.0
+12089,"""287.120""",0.0
+12097,"""2C:20-8"" good service gasoline",0.0
+12100,"""3.4(b)""",0.0
+12102,"""30(B)(6)""",0.0
+12108,"""317 c 9""",0.0
+12109,"""3-200(B)""",1.0
+12112,"""342 F.3d 903""",1.0
+12119,"""38 C.F.R. 3.501(b)""",1.0
+12124,"""4 hours and 59 minutes""",1.0
+12127,"""4:11%2013cv%201300273""",1.0
+12128,"""401(k) roll over""",1.0
+12130,"""40-3-55""",0.0
+12134,"""42 U.S.C. § 1320a-7b(a)(4)""",0.0
+12149,"""47.05.070""",0.0
+12166,"""522(b)(2)""",0.0
+12170,"""54 F3d 156""",1.0
+12176,"""55-7-13d""",0.0
+12178,"""56(f)",0.0
+12182,"""5717.04""",0.0
+12184,"""581 (h)""",1.0
+12199,"""68.8""",0.0
+12200,"""6A:16-7.7""",1.0
+12201,"""6th amendment""",0.0
+12202,"""7.01(A)(3)""",1.0
+12209,"""704(b)""",0.0
+12212,"""743.365""",0.0
+12217,"""78u-4(c)""",0.0
+12221,"""8-107(5)"" ""establish"" ""prima facie""",0.0
+12224,"""832 AND 265""",0.0
+12229,"""90.803(23)!""",1.0
+12230,"""9261-8842 Quebec """,0.0
+12240,"""affidavit for support"" I-864 ""puerto rico""",0.0
+12243,"""article 28 facility""",1.0
+12246,"""auction no. 31""",1.0
+12258,"""Cal Lab. Code 1400"" ""Cal Labor Code 1400"" ""California WARN"" Cal-WARN CalWARN",0.0
+12259,"""california code"" ""2019.210""",0.0
+12261,"""California Jurisprudence 3d""",1.0
+12263,"""Certified contractor """,0.0
+12286,"""DAB No. 2729""",1.0
+12288,"""DOE Order No. 202-05-3""",1.0
+12290,"""Engrossed Bill Report for Assembly Bill 1926""",1.0
+12293,"""executive law § 44""",1.0
+12300,"""FAR 19.301-2""",1.0
+12304,"""fed. R. Evid. 405(b)"" oregon",0.0
+12321,"""h.b. 79""",0.0
+12332,"""list price"" 17200",0.0
+12340,"""may 21",0.0
+12342,"""MCL 418.381(1)""",1.0
+12344,"""MCR 2.310(D)""",1.0
+12353,"""N.J.S.A. 2A:44-25""",1.0
+12359,"""Non-disclosure""",0.0
+12368,"""orphans' court"" ""preliminary objection"" ""Rule 3.9(b)(3)""",0.0
+12369,"""ors 136.450""",1.0
+12371,"""ov 4""",0.0
+12373,"""P.E.R.C. 90-122""",1.0
+12377,"""Pennsylvania Rule of Professional Conduct 1.16""",1.0
+12380,"""pl 205.20""",1.0
+12383,"""Proposition 84""",1.0
+12384,"""Pub. L. No. 115-182",1.0
+12396,"""RPC 1.5(b)""",0.0
+12410,"""rule 201(c)(1)""",0.0
+12411,"""rule 22""",0.0
+12414,"""Rule 3",1.0
+12417,"""Rule 30(b)(1)""",0.0
+12418,"""Rule 37"" near ""substantially harmless""",0.0
+12424,"""Rule 52(c)""",0.0
+12425,"""rule 54(b)""",0.0
+12429,"""rule 62""",0.0
+12434,"""S. Rep. No. 103-300""",1.0
+12441,"""SARA panel""",1.0
+12443,"""Savings: The Missing Element in Chapter 13 Bankruptcy Cases?""",1.0
+12452,"""Service of process on and citation of the appointed agent",0.0
+12455,"""SN-2017-002""",0.0
+12457,"""Stephen B. Jacobs Group""",1.0
+12470,"""Uniform Trust Code § 1010""",1.0
+12472,"""va. code 2.2-4303(G)(1)""",1.0
+12477,"""Workers compensation law 15 (7)""",1.0
+12483,%2022 Michigan Consumer Protection Act,0.0
+12486,%b6 524.10 Acceptance of Payments in Connection with Reaffirmation Agreements; § 524(l),0.0
+12495,§ 1.2. NATURE OF QUIET TITLE ACTIONS,0.0
+12506,§ 125.8,0.0
+12509,§ 131.43 Supporting Motion to Correct Clerical Error in Judgment [Code Civ. Proc. § 473(d)]%2014Court%2019s Power to Correct Clerical Error%2014Power to Antedate Record of Judgment Nunc Pro Tunc,0.0
+12521,§ 195.65 Proceedings for Order to Compel%2014Compelling Response to Demand for Inspection,0.0
+12524,§ 221.23a. Policyholder collateral,0.0
+12528,§ 24-4-418. Admissibility of criminal gang activity,0.0
+12536,§ 33.35. What Records Must I Keep Related to Money Transmission Transactions?,0.0
+12543,§ 4.06 MOVING PARTY%2019S PRESENTATION%2014Motion for Joinder Should Be Granted,0.0
+12545,§ 401.41 Complaint for Damages for Breach of Partnership Agreement [Corp. Code § 16405(b)(1); Civ. Code § 3300],0.0
+12549,§ 520.132 Affirmative Defense Allegation [Code Civ. Proc. § 431.30(b)(2)]%2014Release of Joint Tortfeasor or Coobligor for Amount Sufficient to Satisfy Entire Claim [Code Civ. Proc. § 877],0.0
+12553,§ 55-108,0.0
+12561,§ 741.31 Arrest without warrant,0.0
+12563,§ 8.13 FLORIDA HOMESTEAD EXEMPTION%2014FLA. CONST. ART. X,0.0
+12568,§ 91.23 Concurrent and Consecutive Sentences,0.0
+12570,§ BH:16-1,0.0
+12575,§387.125,0.0
+12577,§480-30-221,0.0
+12578,§51.901(c) Tex. Gov. Code,0.0
+12580,§N.J.A.C. 11:3,1.0
+12583,1.220 florida rule class action contract transport,0.0
+12584,1.285 privileged document,0.0
+12585,1.36 (e),0.0
+12601,1019 (i),0.0
+12602,103 F.T.C. 110,0.0
+12605,106 East 19th Associates v. Berg-Munch,0.0
+12613,11 NC ADC 14.0201,0.0
+12614,11 nc adc 14.0201,0.0
+12617,11 usc,0.0
+12618,"11 USC § 523(a)(2)(4) ""complaint must be timely""",0.0
+12621,1109 witness good cause 1050,0.0
+12624,113 Labor Arbitration 1053,0.0
+12625,116 FERC P 61,0.0
+12626,117 FEOR 292,0.0
+12633,12 NYCRR 23-1.7(e) ,0.0
+12635,12 Pa. Con. Stat. Ann. section 5301,0.0
+12637,12(b)(1) motion to dismiss,0.0
+12644,120 cmr 301,0.0
+12645,120 USPQ2d 1710 (TTAB 2016),0.0
+12652,12A:9-3**,1.0
+12655,13 Witkin Summary (10th ed) Trusts § 224,0.0
+12668,14.24 family offense proceeding,0.0
+12672,1405 F. 2d 1285,0.0
+12675,146 FRD 583,0.0
+12682,15 U.S.C. § 1056(b).,0.0
+12683,15 U.S.C. 717f(h) de facto taking,0.0
+12684,15%25 increase in permanent disability,0.0
+12687,150b-23,0.0
+12697,163 m2d 352,0.0
+12705,172 N.J. Super. 459,0.0
+12706,174 A.D.2d,0.0
+12708,175 NAC 5,0.0
+12710,179 Depreciation recapture,0.0
+12721,19 am jur 2d,0.0
+12722,19 Am.Jur.2d,0.0
+12729,1950 OAG No. 1478 (1950),0.0
+12736,1978 Op.Atty.Gen. (Inf.) 243,0.0
+12741,1983 contractor personal capacity,0.0
+12742,1983 failure to protect from officer,0.0
+12745,1986 HR 794,0.0
+12749,199.5 Deposition,0.0
+12760,2. Certification of Proof of Amount Due(Residential Foreclosures) (NJ,0.0
+12763,2:12cv4814. Kimsey Et Al V. Ethicon,0.0
+12765,2:12cv6179. Thompson V. Ethicon,0.0
+12771,2:12cv9025. Barnes Et Al V. Ethicon,0.0
+12773,2:13cv1016. Cardwell V. Ethicon,0.0
+12777,2:16cv1302. Oyster Optics,0.0
+12786,2000 Miss. Op. Att'y Gen. 410.,0.0
+12787,2000 WL 34001583,0.0
+12788,20002 vehicle leave accident passenger opened door causing accident,0.0
+12794,2003 WL 230694,0.0
+12795,2004 WL 2851951,0.0
+12796,2004 WL 3304656,0.0
+12798,2005 WL 12866215,0.0
+12799,2005 wl 159096,0.0
+12800,2006 wl 2135809,0.0
+12802,2007 N.J. Super. Lexis 1365,0.0
+12808,2008 N.Y. Sess. Law Ch. 472 (S. 8143-A),0.0
+12812,2009-37 Section 108(i),0.0
+12813,201 8 Bankr.. Lexis 490,0.0
+12825,2012 Tex. Cnty. LEXIS 2058,0.0
+12828,2012 WL 12884439,0.0
+12834,2013 WL 247733,0.0
+12846,2015 26 USCS prec § 31,0.0
+12849,2015 ny slip op 51760,0.0
+12857,2016 IL App (1st) 132356-u,0.0
+12858,2016 Misc LEXIS 652,0.0
+12860,2016 U. Ill. L. Rev. 2271 (2016),0.0
+12868,2016 WL 5173656,0.0
+12873,2017 lexis 11642,0.0
+12874,2017 Senate-Assembly Bill S351,0.0
+12879,2017 us dist lexis 93082;2017 us dist lexis 198846;2018 us dist lexis 68106;2018 us dist lexis 9228;2018 us dist lexis 35457;2018 us dist lexis 56738;2017 Ohio 8951;2017 us dist lexis 121540;2017 Ohio Misc. lexis 1326_Attachment1;2017 Ohio Misc. lexis 2746_Attachment1,0.0
+12880,2017 WL 1228553,0.0
+12881,2017 WL 8809714,0.0
+12898,2018 WL 1441373,0.0
+12902,2018 WL 3130680,0.0
+12904,2019!,0.0
+12905,2019.210!,0.0
+12908,"2030.300(c) ""excess of 45 days""",0.0
+12918,21 Hast. Const. L. Q. 15,0.0
+12932,22 nycrr 670.8(e),0.0
+12933,222 nycrr 207,0.0
+12936,2255 + sentencing guidelines + not cognizable,0.0
+12937,2258 R-A correction officer,0.0
+12942,23 Cal.Jur.3d,0.0
+12952,237(a)(1)(h) waiver stack,0.0
+12966,26 TEx. L. REv. 150,0.0
+12971,2-619 material fact,0.0
+12984,28 U.S.C. §1870 appeal,0.0
+12985,28 usc 1608 foreign service,0.0
+12988,2800 evasion,0.0
+12991,287.250.6 R.S.Mo.,0.0
+12995,29 CFR 541.602,0.0
+12996,29 Misc 3d 1208(A),0.0
+12998,29 U.S.C. § 701,0.0
+13002,2929.19(B)(3)!,0.0
+13010,3.29 Withdrawal of Attorney From Representation.,0.0
+13012,30 perb p 4535,0.0
+13014,30(b)(1) notice counts towards ten deposition limit,0.0
+13021,31.13 Mortality Tables as Evidence of Damages%2014Wrongful Death Case,0.0
+13025,316.1934 breath time of driving,0.0
+13028,3211 (7) dismiss without prejudice leave to replead,0.0
+13029,3211 dismissal consider exhibits to complaint,0.0
+13039,337 NRLB 796,0.0
+13042,35 alr 893,0.0
+13051,36 FPC 790,0.0
+13065,38 C.F.R. 4.115,0.0
+13073,3905A Physical Pain,0.0
+13074,3B1.1,0.0
+13076,4 Ohio Jury Instructions (2002),0.0
+13078,4. Buchman v. State,0.0
+13086,401(k) audit report,0.0
+13091,405(c)(4)(A) conclusive evidence employment was in year,0.0
+13093,41 cfr insurance liability to third persons,0.0
+13100,415-A:4,1.0
+13102,42 Mitchell Hamline L. Rev. 897,0.0
+13107,42 U.S.C. § 9619,0.0
+13114,42.56!,0.0
+13116,43 Am. Jr. 2d Insurance § 296,0.0
+13117,43 N.C.A.G. 79 (1973),0.0
+13119,440.10 actual innocence,0.0
+13124,46 U.C.S. §31301,0.0
+13125,46.021 standing,0.0
+13126,46:lx.503,1.0
+13129,47 Am. jur. 2d 945 (1995),0.0
+13134,49 njr 3849,0.0
+13139,5. Fla. R. Civ. P. 1.110(f),0.0
+13147,506(c) and sufficient funds to pay both the expenses and secured claimant,0.0
+13151,5104 (d),0.0
+13158,530 SW 162,0.0
+13176,598 f sup 2nd 1070,0.0
+13177,598 of the Civil Practice Act,0.0
+13178,5G DCRR § 2501,0.0
+13187,60A-4-401,0.0
+13193,623 nysd 524,0.0
+13198,63g-3-305,0.0
+13209,68096.1 domestic violence,0.0
+13210,69 ind l s 659,0.0
+13214,702 C.D. 2017,0.0
+13215,702 hearing,0.0
+13218,70a-9a516(h)(3),0.0
+13220,71.72 RCW,0.0
+13222,718.111 definition of medical records,0.0
+13223,720 turnover percent,0.0
+13225,735 ILCS 2-619,0.0
+13238,78B-6-802(1)(a),0.0
+13239,79 AL.R.4th 12,0.0
+13241,791.041 & 1990,0.0
+13244,8.01-66.1:1,1.0
+13259,812 F.3d,0.0
+13261,815 ILCS 505,0.0
+13265,836 S.W. 2d 833,0.0
+13267,85 msrp 105,0.0
+13275,884 sw3 151,0.0
+13277,897 F.3d 66,0.0
+13278,9 U.S.F.,0.0
+13280,901 Evidence,0.0
+13281,90-CR R16:50,0.0
+13285,924(c) stacking,0.0
+13290,935 CMR 500,0.0
+13291,947-949 First Ave. LLC v JIPA,0.0
+13292,96 Op. Atty. Gen. 89,0.0
+13298,ADMINISTRATIVE RULE 9,0.0
+13308,Amber Mullins,0.0
+13318,ARTICLE: Motions to Dismiss Under Texas Rule 91a: Practice,0.0
+13319,ASA §66-3611,0.0
+13324,Bd. of Comm'rs of the Southeast La. Flood Prot. Authority-East v. Tenn. Gas Pipeline Co.,0.0
+13329,Boothby v. Atlas Mechanical,0.0
+13347,Cal Prob Code § 850,0.0
+13352,Cal. Veh. Code § 4001.1,0.0
+13359,California Pub. Utilities Comm'n,0.0
+13361,California Rules of Court,0.0
+13384,CR 61.02,0.0
+13386,stop $54 billion merger,0.0
+13388,Transfer,0.0
+13396,"""7 Eleven""",0.0
+13397,"""Sale under a plan""",0.0
+13398,"""Yxstian Gutierrez""",0.0
+13403,"""14 days"" coverage leak insurance water damage period",0.0
+13407,"""u.s. justice department and 11 states sued""",1.0
+13410,"""april 22""",0.0
+13411,"""Harris County Hospital District""",1.0
+13416,"""insufficient indictment""",0.0
+13426,50-01 2ND STREET ASSOCIATES,0.0
+13427,"""police that Christopher Fischer had called him an asshole multiple times to his face",0.0
+13428,"""Sole source""",0.0
+13432,"""harris county court at law no. 1""",1.0
+13445,2-Nov,0.0
+13451,Oct-01,0.0
+13455,"""Mediation clause"" waiver",0.0
+13457,"""protects only those disclosures%2014necessary to obtain informed legal advice%2014which might not have been made absent the privilege""",0.0
+13460,21 days,0.0
+13463,"(""Five9"")",0.0
+13482,"""Conformed signature""",1.0
+13484,"""Consciousness of guilt""",0.0
+13486,"""Control4 Corporation""",0.0
+13488,30 day,0.0
+13497,"""Declaratory relief""",0.0
+13502,"""exclusionary rights""",0.0
+13504,A child under 7 years of age cannot be guilty of contributory negligence,0.0
+13505,crime of moral turpitude more than 10 years,0.0
+13512,"""hung jury""",0.0
+13521,"""unknown means""",0.0
+13524,"(i) We will find that you have an ""extreme"" limitation in a domain when your impairment(s) interferes very seriously with your ability to independently initiate",0.0
+13525,bond of at least $1,0.0
+13527,Landlord and Tenant both agree that upon 30 day notice the monthly rent may be altered by the landlord.,0.0
+13531,"The Department of Environmental Protection shall adopt rules and regulations pursuant to the ""Administrative Procedure Act",0.0
+13532,"The term ""sale"" or ""sell"" shall include every contract of sale or disposition of a security or interest in a security",0.0
+13533,Who is Chief Judge Batchelder,0.0
+13535,"""100 mile""",0.0
+13546,"""Mental defect""",0.0
+13556,"""vexatiously""",0.0
+13558,10 day notice longer period provided in lease comply with lease,0.0
+13564,Plaintiff cannot sue Defendant and Defendant's insurance company; Florida; personal injury,0.0
+13569,"""15 of the most recent 22 months""",0.0
+13584,"""Relation-Back"" dismissal",0.0
+13589,"""within 10 days""",0.0
+13591,(diversity jurisdiction) and amount in controversy; under; stipulation of amount; west virginia,0.0
+13615,"""10 day""",0.0
+13618,"""15 or more employees""",0.0
+13619,"""25 days""",0.0
+13624,"""A Sitting President%2019s Amenability to Indictment and Criminal Prosecution""",1.0
+13625,"""ACCIDENTAL DEATH AND DISMEMBERMENT"" 90 DAYS",0.0
+13628,"""August 3",0.0
+13647,"""Released its claims against""",0.0
+13648,"""Sc%e8nes %e0 faire is an affirmative defense to copyright infringement. Sc%e8nes %e0 faire identifies and excludes from protection against infringement expression whose creation flowed naturally from considerations external to the author%2019s creativity. """,0.0
+13649,"""Second degree assault""",0.0
+13653,"""The elements of a claim based on the federal common law of nuisance """,0.0
+13654,"""the leading decision of the supreme court construing Federal rule 15""",1.0
+13655,"""The SELLER warrants only that the Marine Fuel supplied shall conform to the specifications stated in the SELLER%2019s signed confirmation document",0.0
+13658,"""Trial by ambush""",0.0
+13661,$3,0.0
+13667,12th district,0.0
+13670,15 day to object,0.0
+13679,360 Heros,0.0
+13680,403 photos,0.0
+13690,To establish ineffective assistance of counsel,0.0
