@@ -17,7 +17,6 @@ https://stackoverflow.com/questions/17740833/checking-fuzzy-approximate-substrin
 
 
 def if_true(lst):
-    # print(lst)
     for l in lst[:5]:
         if l == 1:
             return 1
